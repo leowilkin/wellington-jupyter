@@ -1,0 +1,1130 @@
+canonical_smiles,compLabel,formula,bp,bpUnitLabel,mp,mpUnitLabel
+[H], hydrogen, H2, -253, degree Celcius, -259, degree Celsius
+[He],helium,He,-268.9,degree Celcius,-272.2,degree Celcius
+[C-]#[O+],carbon monoxide,CO,-191.7,degree Celcius,-205.0,degree Celsius
+FF,fluorine,F,-188.3,degree Celcius,-219.4,degree Celcius
+[N]=O,nitric oxide,NO,-151.7,degree Celcius,-163.9,degree Celcius
+O(F)F,oxygen difluoride,F₂O,-145.6,degree Celcius,-223.9,degree Celcius
+N(F)(F)F,nitrogen trifluoride,F₃N,-128.9,degree Celcius,-206.79,degree Celsius
+[O-][O+]=O,ozone,O₃,-111.7,degree Celcius,-197.2,degree Celsius
+[SiH4],silane,H₄Si,-111.7,degree Celcius,-185.0,degree Celcius
+B(F)(F)F,boron trifluoride,BF₃,-100.0,degree Celcius,-126.7,degree Celcius
+B.B,diborane(6),B₂H₆,-92.8,degree Celcius,-165.5,degree Celsius
+[N-]=[N+]=O,nitrous oxide,N₂O,-88.3,degree Celcius,-91.1,degree Celcius
+[GeH4],germane,GeH₄,-88.3,degree Celcius,-166.1,degree Celcius
+P,phosphine,PH₃,-87.8,degree Celcius,-133.9,degree Celcius
+C=C(F)F,vinylidene fluoride,C₂H₂F₂,-85.6,degree Celcius,-143.9,degree Celcius
+Cl,hydrogen chloride,HCl,-85.0,degree Celcius,-114.4,degree Celcius
+C(=O)(F)F,carbonyl fluoride,CF₂O,-83.3,degree Celcius,-113.9,degree Celcius
+C=CF,vinyl fluoride,C₂H₃F,-72.2,degree Celcius,-160.5,degree Celsius
+Br,hydrogen bromide,BrH,-66.7,degree Celcius,-86.8,degree Celsius
+[AsH3],arsenic trihydride,AsH₃,-62.8,degree Celcius,-117.2,degree Celcius
+S,hydrogen sulfide,H₂S,-60.6,degree Celcius,-85.6,degree Celcius
+C(F)(F)(F)Br,bromotrifluoromethane,CBrF₃,-57.8,degree Celcius,-166.1,degree Celcius
+C=C=O,ketene,C₂H₂O,-56.1,degree Celcius,-151.0,degree Celsius
+O=S(=O)(F)F,sulfuryl fluoride,F₂O₂S,-55.6,degree Celcius,-135.6,degree Celcius
+O=Cl(=O)(=O)F,perchloryl fluoride,ClFO₃,-46.7,degree Celcius,-147.0,degree Celsius
+CCC,propane,C₃H₈,-42.2,degree Celcius,-187.69,degree Celsius
+[SeH2],hydrogen selenide,H₂Se,-41.1,degree Celcius,-66.1,degree Celcius
+C(F)(F)Cl,chlorodifluoromethane,CHClF₂,-40.6,degree Celcius,-157.42,degree Celsius
+FS(F)(F)F,sulfur tetrafluoride,F₄S,-40.6,degree Celcius,-125.0,degree Celsius
+C(C(F)(F)Cl)(F)(F)F,chloropentafluoroethane,C₂ClF₅,-38.9,degree Celcius,-99.44,degree Celsius
+F[Se](F)(F)(F)(F)F,selenium hexafluoride,F₆Se,-34.4,degree Celcius,-50.6,degree Celcius
+ClCl,dichlorine,Cl₂,-33.9,degree Celcius,-101.1,degree Celcius
+N,ammonia,NH₃,-33.3,degree Celcius,-77.74,degree Celsius
+C(F)(F)(Cl)Cl,dichlorodifluoromethane,CCl₂F₂,-30.0,degree Celcius,-157.8,degree Celcius
+C(=O)(C(F)(F)F)C(F)(F)F,hexafluoroacetone,C₃F₆O,-27.8,degree Celcius,-122.2,degree Celcius
+CCl,methyl chloride,CH₃Cl,-24.4,degree Celcius,-97.8,degree Celcius
+CC#C,propyne,C₃H₄,-23.3,degree Celcius,-102.7,degree Celsius
+C=[N+]=[N-],diazomethane,CH₂N₂,-22.8,degree Celcius,-145.0,degree Celcius
+C=O,formaldehyde,CH₂O,-21.1,degree Celcius,-92.2,degree Celcius
+C(#N)C#N,cyanogen,C₂N₂,-21.1,degree Celcius,-27.8,degree Celcius
+[SbH3],stibine,H₃Sb,-18.3,degree Celcius,-88.0,degree Celsius
+C=CCl,vinyl chloride,C₂H₃Cl,-13.9,degree Celcius,-160.0,degree Celcius
+CC(C)C,isobutane,C₄H₁₀,-11.7,degree Celcius,-138.3,degree Celsius
+O=S=O,sulfur dioxide,SO₂,-10.0,degree Celcius,-75.6,degree Celcius
+CN,methylamine,CH₅N,-6.1,degree Celcius,-93.44,degree Celsius
+C=CC=C,"1,3-butadiene",C₄H₆,-4.4,degree Celcius,-108.9,degree Celcius
+CCCC,butane,C₄H₁₀,-0.6,degree Celcius,-138.29,degree Celsius
+CN(C)C,trimethylamine,C₃H₉N,2.8,degree Celcius,-117.1,degree Celsius
+C(C(F)(F)Cl)(F)(F)Cl,dichlorotetrafluoroethane,C₂Cl₂F₄,3.3,degree Celcius,-94.0,degree Celsius
+CS,methyl mercaptan,CH₄S,6.1,degree Celcius,-123.0,degree Celsius
+CNC,dimethylamine,C₂H₇N,6.7,degree Celcius,-92.2,degree Celsius
+C(=O)(Cl)Cl,phosgene,CCl₂O,8.3,degree Celcius,-127.9,degree Celsius
+C(F)(Cl)Cl,dichlorofluoromethane,CHCl₂F,8.9,degree Celcius,-135.0,degree Celcius
+C1CO1,ethylene oxide,C₂H₄O,10.6,degree Celcius,-112.8,degree Celcius
+O=Cl[O],chlorine dioxide,ClO₂,11.1,degree Celcius,-59.0,degree Celsius
+CCCl,chloroethane,C₂H₅Cl,12.2,degree Celcius,-138.7,degree Celsius
+C(#N)Cl,cyanogen chloride,CClN,12.8,degree Celcius,-6.7,degree Celcius
+C=CBr,vinyl bromide,C₂H₃Br,15.6,degree Celcius,-139.4,degree Celcius
+CCN,ethylamine,C₂H₇N,16.7,degree Celcius,-80.53,degree Celsius
+F,hydrogen fluoride,FH,19.4,degree Celcius,-83.36,degree Celsius
+CC=O,acetaldehyde,C₂H₄O,20.6,degree Celcius,-123.3,degree Celcius
+N(=O)[O],nitrogen dioxide,NO₂,21.1,degree Celcius,-9.4,degree Celcius
+C(F)(Cl)(Cl)Cl,trichloromonofluoromethane,CCl₃F,23.9,degree Celcius,-111.1,degree Celcius
+C(F)(F)(Br)Br,dibromodifluoromethane,CBr₂F₂,24.4,degree Celcius,-146.1,degree Celcius
+C#N,hydrogen cyanide,CHN,25.6,degree Celcius,-13.4,degree Celsius
+FS(F)(F)(F)(F)S(F)(F)(F)(F)F,disulfur decafluoride,F₁₀S₂,28.9,degree Celcius,-92.2,degree Celcius
+C=C(Cl)Cl,"1,1-dichloroethene",C₂H₂Cl₂,31.7,degree Celcius,-122.5,degree Celsius
+COC=O,methyl formate,C₂H₄O₂,31.7,degree Celcius,-100.0,degree Celcius
+CC(C)N,isopropylamine,C₃H₉N,32.8,degree Celcius,-101.0,degree Celsius
+CCOCC,diethyl ether,C₄H₁₀O,34.4,degree Celcius,-116.1,degree Celcius
+CC1CO1,propylene oxide,C₃H₆O,34.4,degree Celcius,-112.0,degree Celsius
+CCS,ethanethiol,C₂H₆S,35.0,degree Celcius,-148.0,degree Celsius
+CCCCC,n-pentane,C₅H₁₂,36.1,degree Celcius,-130.0,degree Celcius
+CCBr,bromoethane,C₂H₅Br,38.3,degree Celcius,-118.6,degree Celsius
+C(Cl)Cl,dichloromethane,CH₂Cl₂,40.0,degree Celcius,-95.0,degree Celcius
+FBr(F)(F)(F)F,bromine pentafluoride,BrF₅,40.6,degree Celcius,-60.6,degree Celcius
+C1C=CC=C1,cyclopentadiene,C₅H₆,41.7,degree Celcius,-85.0,degree Celsius
+CI,methyl iodide,CH₃I,42.8,degree Celcius,-66.7,degree Celcius
+[C-]#[O+].[C-]#[O+].[C-]#[O+].[C-]#[O+].[Ni],nickel tetracarbonyl,C₄NiO₄,43.3,degree Celcius,-25.0,degree Celcius
+COCOC,dimethoxymethane,C₃H₈O₂,43.9,degree Celcius,-105.0,degree Celcius
+C=CCCl,allyl chloride,C₃H₅Cl,45.0,degree Celcius,134.5,degree Celsius
+C(=S)=S,carbon disulfide,CS₂,46.7,degree Celcius,-112.0,degree Celsius
+C(C(F)(Cl)Cl)(F)(F)Cl,"1,1,2-trichlorotrifluoroethane",C₂Cl₃F₃,47.8,degree Celcius,-35.0,degree Celsius
+C1CCCC1,cyclopentane,C₅H₁₀,49.4,degree Celcius,-93.9,degree Celcius
+CCC(C)(C)C,"2,2-dimethylbutane",C₆H₁₄,50.0,degree Celcius,-100.0,degree Celcius
+C(C(F)(F)F)(Cl)Br,halothane,C₂HBrClF₃,50.0,degree Celcius,-117.8,degree Celcius
+C=CC=O,acrolein,C₃H₄O,52.8,degree Celcius,-87.8,degree Celcius
+CCOC=O,ethyl formate,C₂H₅OOCH,54.4,degree Celcius,-81.0,degree Celsius
+CCNCC,diethylamine,C₄H₁₁N,55.6,degree Celcius,-50.0,degree Celsius
+CC(=O)C,acetone,C₃H₆O,56.1,degree Celcius,-95.6,degree Celcius
+C1CN1,aziridine,C₂H₅N,56.1,degree Celcius,-71.7,degree Celcius
+CC(Cl)Cl,ethylidene chloride,C₂H₄Cl₂,57.2,degree Celcius,-97.2,degree Celcius
+CC(=O)OC,methyl acetate,C₃H₆O₂,57.2,degree Celcius,-98.0,degree Celsius
+COCCl,chloromethyl methyl ether,C₂H₅ClO,58.9,degree Celcius,-103.3,degree Celcius
+C=CC(=C)Cl,chloroprene,C₄H₅Cl,59.4,degree Celcius,-102.8,degree Celcius
+Not found,pentaborane(9),B₅H₉,60.0,degree Celcius,-46.7,degree Celcius
+C(Cl)(Cl)Cl,chloroform,CHCl₃,61.7,degree Celcius,-63.0,degree Celsius
+CO,methanol,CH₄O,63.9,degree Celcius,-98.0,degree Celsius
+CN(C)N,"1,1-dimethylhydrazine",C₂H₈N₂,63.9,degree Celcius,-57.8,degree Celcius
+C1CCOC1,tetrahydrofuran,C₄H₈O,66.1,degree Celcius,-108.0,degree Celsius
+CC1CN1,propylenimine,C₃H₇N,66.7,degree Celcius,-65.0,degree Celcius
+CCCS,propyl mercaptan,C₃H₈S,67.2,degree Celcius,-113.3,degree Celcius
+CC(C)OC(C)C,isopropyl ether,C₆H₁₄O,67.8,degree Celcius,-60.0,degree Celcius
+C(Cl)Br,bromochloromethane,CH₂BrCl,68.3,degree Celcius,-86.7,degree Celcius
+CCCCCC,hexane,C₆H₁₄,68.9,degree Celcius,-95.0,degree Celsius
+CC(=O)OC=C,vinyl acetate,C₄H₆O₂,72.2,degree Celcius,-93.2,degree Celsius
+CC(Cl)(Cl)Cl,trichloroethane,C₂H₃Cl₃,73.9,degree Celcius,-30.4,degree Celsius
+P(Cl)(Cl)Cl,phosphorus trichloride,Cl₃P,76.1,degree Celcius,-112.0,degree Celsius
+O=S(Cl)Cl,thionyl chloride,Cl₂OS,76.1,degree Celcius,-104.4,degree Celcius
+C(Cl)(Cl)(Cl)Cl,carbon tetrachloride,CCl₄,76.7,degree Celcius,-22.8,degree Celcius
+CCOC(=O)C,ethyl acetate,C₄H₈O₂,77.2,degree Celcius,-83.8,degree Celsius
+C=CC#N,acrylonitrile,C₃H₃N,77.2,degree Celcius,-82.2,degree Celcius
+CCCCN,n-butylamine,C₄H₁₁N,77.8,degree Celcius,-49.1,degree Celsius
+CCO,ethanol,C₂H₆O,78.3,degree Celcius,-114.0,degree Celsius
+CCCCCl,1-chlorobutane,C₄H₉Cl,78.5,degree Celcius,-123.0,degree Celsius
+CCC(=O)C,butanone,C₄H₈O,79.4,degree Celcius,-86.67,1
+C1=CC=CC=C1,benzene,C₆H₆,80.0,degree Celcius,5.6,degree Celsius
+COC(=O)C=C,methyl acrylate,C₄H₆O₂,80.0,degree Celcius,-76.7,degree Celcius
+C1CCCCC1,cyclohexane,C₆H₁₂,80.6,degree Celcius,6.7,degree Celcius
+CC#N,acetonitrile,C₂H₃N,81.7,degree Celcius,-46.49999999999997,degree Celsius
+CC(C)(C)O,tert-butyl alcohol,C₄H₁₀O,82.2,degree Celcius,25.8,degree Celcius
+[N+](=O)(O)[O-],nitric acid,HNO₃,82.8,degree Celcius,-41.6,degree Celsius
+CC(C)O,isopropyl alcohol,C₃H₈O,82.8,degree Celcius,-88.3,degree Celcius
+C1CCC=CC1,cyclohexene,C₆H₁₀,82.8,degree Celcius,-103.3,degree Celcius
+C(CCl)Cl,"1,2-dichloroethane",C₂H₄Cl₂,83.3,degree Celcius,-35.0,degree Celsius
+CC(C)NC(C)C,diisopropylamine,C₆H₁₅N,83.9,degree Celcius,-96.1,degree Celcius
+C(C=O)Cl,chloroacetaldehyde,C₂H₃ClO,85.6,degree Celcius,-16.3,degree Celsius
+C(=C(Cl)Cl)Cl,trichloroethylene,C₂HCl₃,87.2,degree Celcius,-85.0,degree Celsius
+CNN,methylhydrazine,CH₆N₂,87.8,degree Celcius,-52.4,degree Celsius
+CCN(CC)CC,triethylamine,C₆H₁₅N,89.4,degree Celcius,-114.99999999999996,degree Celsius
+B(Br)(Br)Br,boron tribromide,BBr₃,90.0,degree Celcius,-46.1,degree Celcius
+CC(C)OC(=O)C,isopropyl acetate,C₅H₁₀O₂,90.0,degree Celcius,-68.9,degree Celcius
+CC(=C)C#N,methacrylonitrile,C₄H₅N,90.6,degree Celcius,-35.8,degree Celsius
+C(C(Cl)(Cl)Cl)(F)(F)Cl,"2,2-difluoro-1,1,1,2-tetrachloroethane",C₂Cl₄F₂,91.7,degree Celcius,40.6,degree Celcius
+C(C(F)(Cl)Cl)(F)(Cl)Cl,"1,2-difluoro-1,1,2,2-tetrachloroethane",C₂Cl₄F₂,92.8,degree Celcius,25.0,degree Celcius
+CC(C)C(=O)C,methyl isopropyl ketone,C₅H₁₀O,92.8,degree Celcius,-92.0,degree Celsius
+CC(C)(C#N)O,acetone cyanohydrin,C₄H₇NO,95.0,degree Celcius,-20.0,degree Celcius
+C=CCO,allyl alcohol,C₃H₆O,96.1,degree Celcius,-128.9,degree Celcius
+CC(CCl)Cl,"1,2-dichloropropane",C₃H₆Cl₂,96.7,degree Celcius,-100.0,degree Celsius
+CCCO,propyl alcohol,C₃H₈O,97.2,degree Celcius,-126.7,degree Celcius
+CCC#N,propionitrile,C₃H₅N,97.2,degree Celcius,-91.7,degree Celcius
+CC(=O)OC(C)(C)C,tert-butyl acetate,C₆H₁₂O₂,97.8,degree Celcius,-62.0,degree Celsius
+CCCCS,1-butanethiol,C₄H₁₀S,98.3,degree Celcius,-115.7,degree Celsius
+CCCCCCC,n-heptane,C₇H₁₆,98.3,degree Celcius,-91.0,degree Celsius
+CCOC(=O)C=C,ethyl acrylate,C₅H₈O₂,99.4,degree Celcius,-71.1,degree Celcius
+CCC(C)O,2-butanol,C₄H₁₀O,99.4,degree Celcius,-115.0,degree Celsius
+C(CC=O)CC=O,glutaral,C₅H₈O₂,100.0,degree Celcius,-21.0,degree Celsius
+C[N+](=O)[O-],nitromethane,CH₃NO₂,101.1,degree Celcius,-29.0,degree Celsius
+C1COCCO1,dioxane,C₄H₈O₂,101.1,degree Celcius,12.0,degree Celsius
+CC(=C)C(=O)OC,methyl methacrylate,C₅H₈O₂,101.1,degree Celcius,-47.8,degree Celcius
+CC1CCCCC1,methylcyclohexane,C₇H₁₄,101.1,degree Celcius,-126.6,degree Celsius
+CCCC(=O)C,2-pentanone,C₅H₁₀O,101.7,degree Celcius,-78.0,degree Celsius
+CCCOC(=O)C,propyl acetate,C₅H₁₀O₂,101.7,degree Celcius,-92.2,degree Celcius
+C=O.C=O.C=O.C=O.C=O.[Fe],iron pentacarbonyl,C₅FeO₅,102.8,degree Celcius,-20.5,degree Celsius
+CCCCC=O,pentanal,C₅H₁₀O,102.8,degree Celcius,-91.7,degree Celcius
+CC=CC=O,(2E)-crotonaldehyde,C₄H₆O,103.9,degree Celcius,-76.0,degree Celsius
+CC(C)C#N,isobutyronitrile,C₄H₇N,103.9,degree Celcius,-71.7,degree Celcius
+COC(C(Cl)Cl)(F)F,methoxyflurane,C₃H₄Cl₂F₂O,104.4,degree Celcius,-35.0,degree Celcius
+O=P(Cl)(Cl)Cl,phosphorous oxychloride,Cl₃OP,105.6,degree Celcius,1.0,degree Celsius
+C(C(=O)Cl)Cl,chloroacetyl chloride,C₂H₂Cl₂O,106.1,degree Celcius,-22.0,degree Celsius
+C(OCCl)Cl,bis(chloromethyl) ether,C₂H₄Cl₂O,106.1,degree Celcius,-41.7,degree Celcius
+C(C=CCl)Cl,"(1E)-1,3-dichloropropene",C₃H₄Cl₂,107.8,degree Celcius,-83.9,degree Celcius
+CC(C)CO,isobutyl alcohol,C₄H₁₀O,108.3,degree Celcius,-108.0,degree Celsius
+CCC(C)C1=CC=CC=C1O,o-sec-butylphenol,C₁₀H₁₄O,108.3,degree Celcius,10.0,degree Celsius
+CCCO[N+](=O)[O-],n-propyl nitrate,C₃H₇NO₃,110.6,degree Celcius,-100.0,degree Celcius
+CC1=CC=CC=C1,toluene,C₇H₈,111.1,degree Celcius,-95.0,degree Celcius
+COP(OC)OC,trimethyl phosphite,C₃H₉O₃P,111.1,degree Celcius,-78.0,degree Celsius
+C([N+](=O)[O-])(Cl)(Cl)Cl,chloropicrin,CCl₃NO₂,112.2,degree Celcius,-69.4,degree Celcius
+NN,hydrazine,N₂H₄,113.3,degree Celcius,1.4,degree Celsius
+C(C(Cl)Cl)Cl,"1,1,2-trichloroethane",C₂H₃Cl₃,113.9,degree Celcius,-36.6,degree Celsius
+CC[N+](=O)[O-],nitroethane,C₂H₅NO₂,113.9,degree Celcius,-90.0,degree Celcius
+C#CCO,propargyl alcohol,C₃H₄O,113.9,degree Celcius,-51.8,degree Celsius
+C1=CC=NC=C1,pyridine,C₅H₅N,115.6,degree Celcius,-42.2,degree Celcius
+C1C(O1)CCl,epichlorohydrin,C₃H₅ClO,116.7,degree Celcius,-57.0,degree Celsius
+CC(C)CC(=O)C,methyl isobutyl ketone,C₆H₁₂O,116.7,degree Celcius,-84.0,degree Celsius
+CCCCO,butan-1-ol,C₄H₁₀O,117.2,degree Celcius,-89.8,degree Celsius
+[O-2].[O-2].[Cl-].[Cl-].[Cr+6],chromyl chloride,Cl₂CrO₂,117.2,degree Celcius,-96.5,degree Celsius
+CC(C)COC(=O)C,isobutyl acetate,C₆H₁₂O₂,117.2,degree Celcius,-98.3,degree Celcius
+CC(=O)O,acetic acid,C₂H₄O₂,117.8,degree Celcius,16.7,degree Celcius
+CCCC#N,butyronitrile,C₄H₇N,117.8,degree Celcius,-111.9,degree Celsius
+CC(COC)O,1-methoxy-2-propanol,C₄H₁₀O₂,120.0,degree Celcius,-100.0,degree Celsius
+CC(C)[N+](=O)[O-],2-nitropropane,C₃H₇NO₂,120.6,degree Celcius,-91.32,degree Celsius
+CCCC(C)OC(=O)C,2-pentyl acetate,C₇H₁₄O₂,120.6,degree Celcius,-78.3,degree Celcius
+C(=C(Cl)Cl)(Cl)Cl,tetrachloroethylene,C₂Cl₄,121.1,degree Celcius,-22.0,degree Celsius
+CO[Si](OC)(OC)OC,tetramethyl silicate,C₄H₁₂O₄Si,121.1,degree Celcius,5.0,degree Celsius
+COCCO,ethylene glycol monomethyl ether,C₃H₈O₂,124.4,degree Celcius,-85.0,degree Celsius
+CC(=CC(=O)NC)OP(=O)(OC)OC,(E)-monocrotophos,C₇H₁₄NO₅P,125.0,degree Celcius,53.9,degree Celcius
+CCCCCCCC,octane,C₈H₁₈,125.6,degree Celcius,-56.7,degree Celcius
+CCCCOC(=O)C,butyl acetate,C₆H₁₂O₂,125.6,degree Celcius,-78.0,degree Celsius
+C([N+](=O)[O-])([N+](=O)[O-])([N+](=O)[O-])[N+](=O)[O-],tetranitromethane,CN₄O₈,126.1,degree Celcius,13.9,degree Celcius
+CCCCCS,1-pentanethiol,C₅H₁₂S,126.7,degree Celcius,-76.0,degree Celsius
+C(CCl)O,ethylene chlorohydrin,C₂H₅ClO,127.8,degree Celcius,-63.0,degree Celsius
+CCCCC(=O)C,hexan-2-one,C₆H₁₂O,127.8,degree Celcius,-55.5,degree Celsius
+C1COCCN1,morpholine,C₄H₉NO,128.9,degree Celcius,-5.0,degree Celsius
+O=[Os](=O)(=O)=O,osmium tetroxide,O₄Os,130.0,degree Celcius,41.0,degree Celsius
+CC(=CC(=O)C)C,mesityl oxide,C₆H₁₀O,130.0,degree Celcius,-46.7,degree Celcius
+C(C(Cl)(Cl)Cl)Cl,"1,1,1,2-tetrachloroethane",C₂H₂Cl₄,130.6,degree Celcius,-70.0,degree Celcius
+C(CBr)Br,"1,2-dibromoethane",C₂H₄Br₂,131.1,degree Celcius,10.0,degree Celcius
+CCC[N+](=O)[O-],1-nitropropane,C₃H₇NO₂,131.7,degree Celcius,-108.0,degree Celsius
+C1=CC=C(C=C1)Cl,chlorobenzene,C₆H₅Cl,132.2,degree Celcius,-45.6,degree Celcius
+CC(C)CCO,isoamyl alcohol,C₅H₁₂O,132.2,degree Celcius,-117.0,degree Celsius
+CC(C)CC(C)O,4-methyl-2-pentanol,C₆H₁₄O,132.8,degree Celcius,-90.0,degree Celcius
+C1CCC(CC1)N,cyclohexylamine,C₆H₁₃N,134.4,degree Celcius,-18.0,degree Celsius
+CCOCCO,2-ethoxyethanol,C₄H₁₀O₂,135.0,degree Celcius,-90.0,degree Celcius
+CCC1=CC=CC=C1,ethylbenzene,C₈H₁₀,136.1,degree Celcius,-95.0,degree Celcius
+S(SCl)Cl,disulfur dichloride,S₂Cl₂,137.8,degree Celcius,-77.2,degree Celcius
+CCN1CCOCC1,N-ethylmorpholine,C₆H₁₃NO,138.3,degree Celcius,-63.0,degree Celsius
+CC1=CC=C(C=C1)C,p-xylene,C₈H₁₀,138.3,degree Celcius,12.0,degree Celsius
+CC(=O)OC(=O)C,acetic anhydride,C₄H₆O₃,138.9,degree Celcius,-73.0,degree Celsius
+CC1=CC(=CC=C1)C,m-xylene,C₈H₁₀,138.9,degree Celcius,-47.8,degree Celsius
+CC(C)OCCO,ethylene glycol isopropyl ether,C₅H₁₂O₂,139.4,degree Celcius,-60.0,degree Celsius
+C=CC(=O)O,acrylic acid,C₃H₄O₂,141.1,degree Celcius,13.0,degree Celsius
+CCC(=O)O,propionic acid,C₃H₆O₂,141.1,degree Celcius,-15.0,degree Celcius
+CC(C)CCOC(=O)C,isoamyl acetate,C₇H₁₄O₂,142.2,degree Celcius,-78.3,degree Celcius
+COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],parathion-methyl,C₈H₁₀NO₅PS,142.8,degree Celcius,37.2,degree Celcius
+CC(C)CCC(=O)C,isopentyl methyl ketone,C₇H₁₄O,143.9,degree Celcius,-73.9,degree Celsius
+CCCC(=O)CCC,4-heptanone,C₇H₁₄O,143.9,degree Celcius,-32.8,degree Celcius
+CC1=CC=CC=C1C,o-xylene,C₈H₁₀,144.4,degree Celcius,-25.0,degree Celsius
+CC(=O)OCCOC,2-methoxyethyl acetate,C₅H₁₀O₃,145.0,degree Celcius,-70.0,degree Celsius
+CCCCOC(=O)C=C,butyl acrylate,C₇H₁₂O₂,145.0,degree Celcius,-64.6,degree Celsius
+C=CC1=CC=CC=C1,styrene,C₈H₈,145.0,degree Celcius,-31.0,degree Celsius
+C(C(Cl)Cl)(Cl)Cl,"1,1,2,2-tetrachlorethane",C₂H₂Cl₄,146.7,degree Celcius,-43.0,degree Celsius
+CC(C)CC(C)OC(=O)C,4-methyl-2-pentyl acetate,C₈H₁₆O₂,147.2,degree Celcius,-63.9,degree Celcius
+CC=C1CC2CC1C=C2,(E)-5-ethylidene-2-norbornene,C₉H₁₂,147.8,degree Celcius,-80.0,degree Celcius
+CCCCC(=O)CC,3-heptanone,C₇H₁₄O,147.8,degree Celcius,-37.0,degree Celsius
+CCCCCOC(=O)C,amyl acetate,C₇H₁₄O₂,149.4,degree Celcius,-70.8,degree Celsius
+C(Br)(Br)Br,bromoform,CHBr₃,149.4,degree Celcius,8.05,degree Celsius
+CCCCCCS,1-hexanethiol,C₆H₁₄S,151.1,degree Celcius,-81.0,degree Celsius
+CCCCCC(=O)C,2-heptanone,C₇H₁₄O,151.7,degree Celcius,-35.0,degree Celsius
+CC(C)C1=CC=CC=C1,cumene,C₉H₁₂,152.2,degree Celcius,-96.1,degree Celcius
+CN(C)C=O,"N,N-dimethylformamide",C₃H₇NO,152.8,degree Celcius,-61.0,degree Celsius
+C=CCOCC1CO1,allyl glycidyl ether,C₆H₁₀O₂,153.9,degree Celcius,-100.0,degree Celcius
+C1CCC(=O)CC1,cyclohexanone,C₆H₁₀O,155.6,degree Celcius,-26.0,degree Celsius
+CCOCCOC(=O)C,2-ethoxyethyl acetate,C₆H₁₂O₃,156.1,degree Celcius,-62.0,degree Celsius
+C(C(CCl)Cl)Cl,"1,2,3-trichloropropane",C₃H₅Cl₃,156.7,degree Celcius,-14.4,degree Celcius
+CCC(C)CC(=O)CC,5-Methyl-3-heptanone,C₈H₁₆O,157.2,degree Celcius,-56.7,degree Celcius
+C1CCC(CC1)S,cyclohexyl mercaptan,C₆H₁₂S,157.8,degree Celcius,-30.0,degree Celsius
+CC1=CC=CC=C1Cl,o-chlorotoluene,C₇H₇Cl,160.0,degree Celcius,-35.0,degree Celcius
+C1CCC(CC1)O,cyclohexanol,C₆H₁₂O,161.1,degree Celcius,25.0,degree Celcius
+C(C(Cl)(Cl)Cl)(Cl)Cl,pentachloroethane,C₂HCl₅,161.1,degree Celcius,-29.0,degree Celsius
+C1=COC(=C1)C=O,furfural,C₅H₄O₂,161.7,degree Celcius,-38.0,degree Celsius
+CC1CCCCC1=O,2-methylcyclohexanone,C₇H₁₂O,162.8,degree Celcius,-13.9,degree Celcius
+CCN(CC)CCO,2-(diethylamino)ethanol,C₆H₁₅NO,162.8,degree Celcius,-70.0,degree Celsius
+CC(=C)C(=O)O,methacrylic acid,C₄H₆O₂,162.8,degree Celcius,16.1,degree Celcius
+CC1=CC(=CC(=C1)C)C,mesitylene,C₉H₁₂,165.0,degree Celcius,-44.7,degree Celsius
+CN(C)C(=O)Cl,dimethylcarbamoyl chloride,C₃H₆ClNO,165.0,degree Celcius,-32.8,degree Celcius
+CC(=O)N(C)C,"N,N-dimethylacetamide",C₄H₉NO,165.0,degree Celcius,-20.0,degree Celcius
+CC(=O)CC(C)(C)O,diacetone alcohol,C₆H₁₂O₂,167.8,degree Celcius,-44.0,degree Celsius
+CC(C)CC(=O)CC(C)C,diisobutyl ketone,C₉H₁₈O,167.8,degree Celcius,-41.5,degree Celsius
+CCO[Si](OCC)(OCC)OCC,tetraethyl silicate,C₈H₂₀O₄Si,168.9,degree Celcius,-85.0,degree Celsius
+C1=CC=C(C=C1)S,thiophenol,C₆H₆S,168.9,degree Celcius,-14.9,degree Celsius
+CC1=CC(=C(C=C1)C)C,pseudocumene,C₉H₁₂,169.4,degree Celcius,-43.8,degree Celsius
+C1=COC(=C1)CO,furfuryl alcohol,C₅H₆O₂,170.0,degree Celcius,-31.0,degree Celsius
+C(CO)N,monoethanolamine,C₂H₇NO,170.6,degree Celcius,10.6,degree Celcius
+CCCCOCCO,2-butoxyethanol,C₆H₁₄O₂,170.6,degree Celcius,-77.2,degree Celcius
+CN(C)CCC#N,dimethylaminopropionitrile,C₅H₁₀N₂,172.2,degree Celcius,-44.4,degree Celcius
+C1C=CC2C1C3CC2C=C3,dicyclopentadiene,C₁₀H₁₂,172.2,degree Celcius,32.2,degree Celcius
+C1=CC(=CC=C1Cl)Cl,"1,4-dichlorobenzene",C₆H₄Cl₂,173.9,degree Celcius,54.0,degree Celsius
+CC1=C(C(=CC=C1)C)C,"1,2,3-trimethylbenzene",C₉H₁₂,176.1,degree Celcius,-25.6,degree Celcius
+CCCCCCCS,1-heptanethiol,C₇H₁₆S,177.2,degree Celcius,-43.0,degree Celsius
+C(CCl)OCCCl,bis(2-chloroethyl)ether,C₄H₈Cl₂O,177.8,degree Celcius,-51.9,degree Celsius
+C1=CC=C(C=C1)CCl,benzyl chloride,C₇H₇Cl,178.9,degree Celcius,-43.0,degree Celsius
+C1=CC=C(C(=C1)Cl)Cl,o-dichlorobenzene,C₆H₄Cl₂,180.6,degree Celcius,-17.2,degree Celcius
+C1C=CC2=CC=CC=C21,indene,C₉H₈,181.7,degree Celcius,-1.7,degree Celcius
+C1=CC=C(C=C1)O,phenol,C₆H₆O,181.7,degree Celcius,42.8,degree Celcius
+C1=CC=C(C=C1)N,aniline,C₆H₇N,183.9,degree Celcius,-6.1,degree Celcius
+CC(C)CCCCCO,isooctyl alcohol,C₇H₁₅CH₂OH,186.1,degree Celcius,-76.1,degree Celcius
+CCCCOC(=O)C(C)O,DL-butyl lactate,C₇H₁₄O₃,187.8,degree Celcius,-28.0,degree Celsius
+C=CC1=CC=CC=C1Cl,o-chlorostyrene,C₈H₇Cl,188.9,degree Celcius,-63.0,degree Celsius
+C(Br)(Br)(Br)Br,tetrabromomethane,CBr₄,190.0,degree Celcius,90.0,degree Celcius
+CC(C(=O)O)(Cl)Cl,dalapon,C₃H₄Cl₂O₂,190.0,degree Celcius,7.8,degree Celcius
+CC1=CC=CC=C1O,orthocresol,C₇H₈O,191.1,degree Celcius,31.1,degree Celcius
+CN(C)C1=CC=CC=C1,"N,N-dimethylaniline",C₈H₁₁N,192.2,degree Celcius,2.2,degree Celcius
+CCCCOCCOC(=O)C,ethylene glycol monobutyl ether acetate,C₈H₁₆O₃,192.2,degree Celcius,-63.3,degree Celcius
+CC1=CC=C(C=C1)C(C)(C)C,4-tert-butyltoluene,C₁₁H₁₆,192.8,degree Celcius,-63.0,degree Celsius
+CNC1=CC=CC=C1,methylaniline,C₇H₉N,195.6,degree Celcius,-57.2,degree Celcius
+C(C(CBr)Br)Cl,"1,2-dibromo-3-chloropropane",C₃H₅Br₂Cl,195.6,degree Celcius,6.1,degree Celcius
+C(CO[N+](=O)[O-])O[N+](=O)[O-],ethylene glycol dinitrate,C₂H₄N₂O₆,197.2,degree Celcius,-22.2,degree Celcius
+CC(CC(C)(C)O)O,"2-methyl-2,4-pentanediol",C₆H₁₄O₂,197.8,degree Celcius,-40.0,degree Celsius
+C(=O)(C(Cl)(Cl)Cl)O,trichloroacetic acid,C₂HCl₃O₂,197.8,degree Celcius,57.5,degree Celsius
+C(CO)O,ethylene glycol,C₂H₆O₂,197.8,degree Celcius,-13.0,degree Celsius
+CCCCCCCCS,1-Octanethiol,C₈H₁₈S,198.9,degree Celcius,-49.0,degree Celsius
+CC1=CC=CC=C1N,o-toluidine,C₇H₉N,200.0,degree Celcius,-16.35,degree Celsius
+CC1=CC=C(C=C1)N,4-methylbenzenamine,C₇H₉N,200.6,degree Celcius,43.75,degree Celsius
+CC1=CC=C(C=C1)O,para-cresol,C₇H₈O,202.2,degree Celcius,33.0,degree Celsius
+C1=CC(=O)OC1=O,maleic anhydride,C₄H₂O₃,202.2,degree Celcius,52.8,degree Celcius
+CC1=CC(=CC=C1)N,m-toluidine,C₇H₉N,202.8,degree Celcius,-31.25,degree Celsius
+CC(C)NC1=CC=CC=C1,N-isopropyl aniline,C₉H₁₃N,202.8,degree Celcius,-50.0,degree Celcius
+CC1=CC(=CC=C1)O,metacresol,C₇H₈O,202.8,degree Celcius,12.2,degree Celcius
+CC1(C2CCC1(C(=O)C2)C)C,camphor,C₁₀H₁₆O,203.9,degree Celcius,174.0,degree Celsius
+C(CNCCN)N,diethylenetriamine,C₄H₁₃N₃,207.2,degree Celcius,-39.0,degree Celsius
+CC(CO)OCC(C)OC,dipropylene glycol methyl ether,C₇H₁₆O₃,208.9,degree Celcius,-80.0,degree Celcius
+C1=C(NC=N1)CCN,histamine,C₅H₉N₃,209.5,degree Celcius,83.5,degree Celcius
+C1=CC=NC(=C1)N,2-aminopyridine,C₅H₆N₂,210.6,degree Celcius,58.3,degree Celcius
+C1=CC=C(C=C1)[N+](=O)[O-],nitrobenzene,C₆H₅NO₂,210.6,degree Celcius,6.0,degree Celsius
+OP(=O)(O)O,phosphoric acid,H₃PO₄,212.8,degree Celcius,20.0,degree Celsius
+C(CCCN=C=O)CCN=C=O,hexamethylene diisocyanate,C₈H₁₂N₂O₂,212.8,degree Celcius,-67.2,degree Celcius
+C1=CC(=C(C=C1Cl)Cl)Cl,"1,2,4-trichlorobenzene",C₆H₃Cl₃,213.3,degree Celcius,17.2,degree Celcius
+CC1=CC(=O)CC(C1)(C)C,isophorone,C₉H₁₄O,215.0,degree Celcius,-8.3,degree Celcius
+C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl,hexachlorobutadiene,C₄Cl₆,215.0,degree Celcius,-21.0,degree Celsius
+C1=CC=C2C=CC=CC2=C1,naphthalene,C₁₀H₈,217.8,degree Celcius,80.0,degree Celsius
+C(C#N)C#N,malononitrile,C₃H₂N₂,218.9,degree Celcius,32.0,degree Celsius
+CC1=CC=CC=C1[N+](=O)[O-],o-nitrotoluene,C₇H₇NO₂,222.2,degree Celcius,-10.0,degree Celsius
+COC1=CC=CC=C1N,o-anisidine,C₇H₉NO,225.0,degree Celcius,5.0,degree Celcius
+C1CC2C(O2)CC1C3CO3,4-vinylcyclohexene dioxide,C₈H₁₂O₂,227.2,degree Celcius,-108.9,degree Celcius
+CCCCCCCCCCCCS,1-dodecanethiol,C₁₂H₂₆S,227.2,degree Celcius,-7.0,degree Celsius
+C1CNC(=S)N1,2-mercaptoimidazoline,C₃H₆N₂S,230.0,degree Celcius,200.0,degree Celcius
+CC1=CC(=CC=C1)[N+](=O)[O-],m-nitrotoluene,C₇H₇NO₂,232.2,degree Celcius,15.5,degree Celsius
+CN(C)P(=O)(N(C)C)N(C)C,hexamethylphosphoramide triamide,C₆H₁₈N₃OP,232.8,degree Celcius,6.1,degree Celcius
+CC1=CC=C(C=C1)[N+](=O)[O-],p-nitrotoluene,C₇H₇NO₂,237.8,degree Celcius,52.2,degree Celcius
+C1(=C(C(C(=C1Cl)Cl)(Cl)Cl)Cl)Cl,hexachlorocyclopentadiene,C₅Cl₆,238.9,degree Celcius,-8.9,degree Celcius
+CCCCCCCCCCS,1-decanethiol,C₁₀H₂₂S,240.6,degree Celcius,-26.1,degree Celcius
+C1=CC(=CC=C1[N+](=O)[O-])Cl,4-Chloronitrobenzene,C₆H₄ClNO₂,242.2,degree Celcius,84.0,degree Celsius
+COC1=CC=C(C=C1)O,mequinol,C₇H₈O₂,242.8,degree Celcius,56.0,degree Celsius
+C1=CC=C(C=C1)C(=O)CCl,2-chloroacetophenone,C₈H₇ClO,244.4,degree Celcius,56.7,degree Celcius
+C1C(O1)COC2=CC=CC=C2,phenyl glycidyl ether,C₉H₁₀O₂,245.0,degree Celcius,3.3,degree Celcius
+C1=CC=C(C(=C1)O)O,pyrocatechol,C₆H₆O₂,245.6,degree Celcius,105.0,degree Celcius
+COC1=CC=C(C=C1)N,p-anisidine,C₇H₉NO,246.1,degree Celcius,58.0,degree Celsius
+C1=CC(=CC(=C1)CN)CN,"1,3-benzenedimethanamine",C₈H₁₂N₂,247.2,degree Celcius,14.4,degree Celcius
+CC1=C(C=C(C=C1)N=C=O)N=C=O,"toluene 2,4-diisocyanate",C₉H₆N₂O₂,251.1,degree Celcius,21.7,degree Celcius
+C1=CC=C(C=C1)C2=CC=CC=C2,biphenyl,C₁₂H₁₀,253.9,degree Celcius,68.9,degree Celcius
+CCCCCCCCC(=O)O,pelargonic acid,C₉H₁₈O₂,255.0,degree Celcius,12.2,degree Celcius
+CCCCCCCCCCCS,1-undecanethiol,C₁₁H₂₄S,257.2,degree Celcius,-2.8,degree Celcius
+C1=CC=C(C=C1)OC2=CC=CC=C2,diphenyl ether,C₁₂H₁₀O,258.9,degree Celcius,27.8,degree Celcius
+C1=CC2=C(C=CC=C2N=C=O)C(=C1)N=C=O,"1,5-naphthylene diisocyanate",C₁₂H₆N₂O₂,262.8,degree Celcius,127.2,degree Celcius
+C(CC#N)C#N,succinonitrile,C₄H₄N₂,265.0,degree Celcius,56.7,degree Celcius
+C1=CC(=CC=C1N)N,p-phenylenediamine,C₆H₈N₂,267.2,degree Celcius,146.0,degree Celsius
+C1CCC(=O)NCC1,caprolactam,C₆H₁₁NO,268.3,degree Celcius,68.9,degree Celcius
+C1=CC(=CC(=C1)O)O,resorcin,C₆H₆O₂,277.2,degree Celcius,108.9,degree Celcius
+[P],white phosphorus,P₄,280.0,degree Celcius,43.9,degree Celcius
+COC(=O)C1=CC=CC=C1C(=O)OC,dimethyl phthalate,C₁₀H₁₀O₄,283.9,degree Celcius,5.0,degree Celsius
+C1=CC(=CC=C1O)O,hydroquinone,C₆H₆O₂,285.0,degree Celcius,170.0,degree Celcius
+CCCCOP(=O)(OCCCC)OCCCC,tri-N-butyl phosphate,C₁₂H₂₇O₄P,288.9,degree Celcius,-80.0,degree Celcius
+CCOC(=O)C1=CC=CC=C1C(=O)OCC,diethyl phthalate,C₁₂H₁₄O₄,295.0,degree Celcius,-40.5,degree Celsius
+C1=CC=C2C(=C1)C(=O)OC2=O,phthalic anhydride,C₈H₄O₃,295.0,degree Celcius,130.6,degree Celcius
+C(CCC#N)CC#N,adiponitrile,C₆H₈N₂,295.0,degree Celcius,1.0,degree Celsius
+C1=CC(=CC=C1[N+](=O)[O-])[N+](=O)[O-],p-dinitrobenzene,C₆H₄N₂O₄,298.9,degree Celcius,172.8,degree Celcius
+C1=CC(=CC(=C1)[N+](=O)[O-])[N+](=O)[O-],m-dinitrobenzene,C₆H₄N₂O₄,300.0,degree Celcius,88.9,degree Celcius
+CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N,o-tolidine,C₁₄H₁₆N₂,300.0,degree Celcius,128.9,degree Celcius
+C1=CC=C2C(=C1)C=CC=C2N,1-naphthylamine,C₁₀H₉N,300.6,degree Celcius,50.0,degree Celcius
+C1=CC=C(C=C1)C2=CC=C(C=C2)N,4-aminobiphenyl,C₁₂H₁₁N,302.2,degree Celcius,52.8,degree Celcius
+C1=CC=C(C=C1)NC2=CC=CC=C2,diphenylamine,C₁₂H₁₁N,302.2,degree Celcius,52.8,degree Celcius
+C1=CC=C2C=C(C=CC2=C1)N,2-naphthylamine,C₁₀H₉N,306.1,degree Celcius,111.1,degree Celcius
+C1=CC=C(C(=C1)C=C(C#N)C#N)Cl,o-chlorobenzylidenemalononitrile,C₁₀H₅ClN₂,310.0,degree Celcius,96.1,degree Celcius
+CC1=CC(=CC(=C1O)[N+](=O)[O-])[N+](=O)[O-],dinitro-ortho-cresol,C₇H₆N₂O₅,312.2,degree Celcius,87.8,degree Celcius
+C1=CC(=CC=C1CC2=CC=C(C=C2)N=C=O)N=C=O,"4,4'-methylenediphenyldiisocyanate",C₁₅H₁₀N₂O₂,313.9,degree Celcius,37.2,degree Celcius
+C1=CC=C(C(=C1)[N+](=O)[O-])[N+](=O)[O-],o-dinitrobenzene,C₆H₄N₂O₄,318.9,degree Celcius,117.8,degree Celcius
+B1(OB(O1)OB2OB(O2)[O-])[O-].O.O.O.O.O.O.O.O.[Na+].[Na+],sodium tetraborate octahydrate,B₄H₂₀Na₂O₁₇,320.0,degree Celcius,75.0,degree Celcius
+C1(C(C(C(C(C1Cl)Cl)Cl)Cl)Cl)Cl,lindane,C₆H₆Cl₆,323.3,degree Celcius,112.8,degree Celcius
+C1=CC=C(C=C1)C2=CC=CC=C2C3=CC=CC=C3,o-terphenyl,C₁₈H₁₄,332.2,degree Celcius,56.2,degree Celsius
+C1=CC(=CC=C1N)[N+](=O)[O-],p-nitroaniline,C₆H₆N₂O₂,332.2,degree Celcius,148.0,degree Celsius
+C1=CC=C(C=C1)C2=CC=C(C=C2)[N+](=O)[O-],p-nitrobiphenyl,C₁₂H₉NO₂,340.0,degree Celcius,113.9,degree Celcius
+CCCCOC(=O)C1=CC=CC=C1C(=O)OCCCC,dibutyl phthalate,C₁₆H₂₂O₄,340.0,degree Celcius,-35.0,degree Celsius
+C1=CC(=C(C2=C1C(=C(C(=C2Cl)Cl)Cl)Cl)Cl)Cl,hexachloronaphthalene,C₁₀H₂Cl₆,343.3,degree Celcius,137.2,degree Celcius
+[Hg],mercury,Hg,356.7,degree Celcius,-38.8,degree Celcius
+C1=CC=C(C=C1)C2=CC(=CC=C2)C3=CC=CC=C3,m-terphenyl,C₁₈H₁₄,365.0,degree Celcius,88.9,degree Celcius
+C1=CC=C(C=C1)N(C2=CC=CC=C2)C3=CC=CC=C3,triphenylamine,C₁₈H₁₅N,365.0,degree Celcius,127.0,degree Celsius
+C1=CC=C2C(=C1)NC3=CC=CC=C3S2,phenothiazine,C₁₂H₉NS,371.1,degree Celcius,185.0,degree Celsius
+CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-],parathion,C₁₀H₁₄NO₅PS,375.0,degree Celcius,6.1,degree Celcius
+CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,diethylhexyl phthalate,C₂₄H₃₈O₄,386.1,degree Celcius,-55.0,degree Celsius
+C1=CC=C(C=C1)NC2=CC3=CC=CC=C3C=C2,N-phenyl-2-naphthylamine,C₁₆H₁₃N,395.0,degree Celcius,107.8,degree Celcius
+C1=CC(=CC=C1C2=CC=C(C=C2)N)N,benzidine,C₁₂H₁₂N₂,400.0,degree Celcius,115.0,degree Celcius
+C1=CC=C(C=C1)C2=CC=C(C=C2)C3=CC=CC=C3,p-terphenyl,C₁₈H₁₄,405.0,degree Celcius,214.0,degree Celsius
+C12=C(C(=C(C(=C1Cl)Cl)Cl)Cl)C(=C(C(=C2Cl)Cl)Cl)Cl,octachloronaphthalene,C₁₀Cl₈,410.0,degree Celcius,185.0,degree Celcius
+C1=CC=C(C=C1)OP(=O)(OC2=CC=CC=C2)OC3=CC=CC=C3,triphenyl phosphate,C₁₈H₁₅O₄P,413.3,degree Celcius,50.0,degree Celsius
+C1=CC(=C(C=C1C2=CC(=C(C=C2)N)Cl)Cl)N,"3,3'-dichlorobenzidine",C₁₂H₁₀Cl₂N₂,420.0,degree Celcius,132.8,degree Celcius
+[Se],selenium,Se,685.0,degree Celcius,200.0,degree Celcius
+Cl[Zn]Cl,zinc chloride,ZnCl₂,732.2,degree Celcius,290.0,degree Celcius
+[Na],sodium,Na,882.9,degree Celcius,97.4,degree Celsius
+[Te],tellurium,Te,990.0,degree Celcius,450.0,degree Celcius
+[OH-].[K+],potassium hydroxide,KOH,1323.9,degree Celcius,406.0,degree Celsius
+[Li],lithium,Li,1330.0,degree Celcius,180.6,degree Celcius
+[OH-].[Na+],sodium hydroxide,NaOH,1390.0,degree Celcius,318.3,degree Celcius
+[C-]#N.[Na+],sodium cyanide,CNNa,1496.1,degree Celcius,563.9,degree Celcius
+[Cl-].[Cl-].[Ba+2],barium chloride,BaCl₂,1560.0,degree Celcius,962.8,degree Celcius
+[C-]#N.[K+],potassium cyanide,CKN,1625.0,degree Celcius,633.9,degree Celcius
+[Sb],antimony,Sb,1635.0,degree Celcius,630.0,degree Celcius
+[F-].[Na+],sodium fluoride,NaF,1703.9,degree Celcius,1020.6,degree Celcius
+[Pb],lead,Pb,1740.0,degree Celcius,328.0,degree Celsius
+B(=O)OB=O,diboron trioxide,B₂O₃,1860.0,degree Celcius,450.0,degree Celcius
+[Mn],manganese,Mn,1962.2,degree Celcius,1243.0,degree Celsius
+[Ag],silver,Ag,2000.0,degree Celcius,960.6,degree Celcius
+[In],indium,In,2075.0,degree Celcius,156.7,degree Celcius
+O=[Si]=O,silicon dioxide,SiO₂,2230.0,degree Celcius,1710.0,degree Celcius
+[Si],silicon,Si,2355.0,degree Celcius,1410.0,degree Celcius
+O=[Ti]=O,titanium dioxide,TiO₂,2500.0,degree Celcius,1843.0,degree Celsius
+[Be],beryllium,Be,2500.0,degree Celcius,1287.2,degree Celcius
+[Sn],tin,Sn,2507.2,degree Celcius,231.9,degree Celsius
+[Cu],copper,Cu,2595.0,degree Celcius,1085.0,degree Celsius
+[Cr],chromium,Cr,2642.2,degree Celcius,1856.9,degree Celsius
+[Ni],nickel,Ni,2837.2,degree Celcius,1454.8,degree Celcius
+O=[Ca],calcium oxide,CaO,2850.0,degree Celcius,2572.2,degree Celcius
+[Y],yttrium,Y,2927.2,degree Celcius,1500.0,degree Celcius
+[Au],gold,Au,2970.0,degree Celcius,1064.18,degree Celsius
+[O-2].[O-2].[O-2].[Al+3].[Al+3],aluminium oxide,Al₂O₃,2980.0,degree Celcius,2054.0,degree Celsius
+[Zr],zirconium,Zr,3577.3,degree Celcius,1857.2,degree Celcius
+O=[Mg],magnesium oxide,MgO,3600.0,degree Celcius,2826.0,degree Celsius
+[Rh],rhodium,Rh,3727.3,degree Celcius,1966.1,degree Celcius
+[Hf],hafnium,Hf,4602.3,degree Celcius,2227.2,degree Celcius
+[Mo],molybdenum,Mo,4825.0,degree Celcius,2622.2,degree Celcius
+[Ta],tantalum,Ta,5425.0,degree Celcius,2996.1,degree Celcius
+[W],tungsten,W,5927.3,degree Celcius,3410.0,degree Celcius
+[HH],dihydrogen,H₂,-252.87,degree Celsius,-259.34,degree Celsius
+[Ne],neon,Ne,-246.0,degree Celsius,-248.6,degree Celsius
+N#N,dinitrogen,N₂,-195.79,degree Celsius,-210.0,degree Celsius
+[Ar],argon,Ar,-185.85,degree Celsius,-189.34,degree Celsius
+O=O,dioxygen,O₂,-182.96,degree Celsius,-218.79,degree Celsius
+C,methane,CH₄,-161.48,degree Celsius,-182.49,degree Celsius
+[SnH4],stannane, SnH₄,-52.0,degree Celsius,-146.0,degree Celcius
+C(F)(F)(F)F,tetrafluoromethane,CF₄,-128.0,degree Celsius,-183.59,degree Celsius
+C=C,ethylene,C₂H₄,-103.77,degree Celsius,-169.2,degree Celsius
+FP(F)F,phosphorus trifluoride,F₃P,-101.5,degree Celsius,-151.5,degree Celsius
+FCl,chlorine monofluoride,ClF,-101.1,degree Celsius,-155.6,degree Celsius
+CC,ethane,C₂H₆,-88.6,degree Celsius,-182.8,degree Celsius
+F[Si](F)(F)F,silicon tetrafluoride,F₄Si,-86.0,degree Celsius,-90.2,degree Celsius
+C#C,acetylene,C₂H₂,-84.72,degree Celsius,-80.8,degree Celsius
+C(F)(F)F,fluoroform,CHF₃,-82.1,degree Celsius,-155.18,degree Celsius
+C(F)(F)(F)Cl,chlorotrifluoromethane,CClF₃,-81.4,degree Celsius,-181.0,degree Celsius
+C(C(F)(F)F)(F)(F)F,hexafluoroethane,C₂F₆,-78.1,degree Celsius,-100.7,degree Celsius
+C(=C(F)F)(F)F,tetrafluoroethylene,C₂F₄,-75.95,degree Celsius,-142.5,degree Celsius
+[N+](=O)([O-])F,nitryl fluoride,FNO₂,-72.4,degree Celsius,-166.0,degree Celsius
+C(=CCl)Cl,"(1Z)-1,2-dichloroethylene",C₂H₂Cl₂,-60.0,degree Celsius,-80.0,degree Celsius
+N(=O)F,nitrosyl fluoride,FNO,-59.9,degree Celsius,-132.5,degree Celsius
+O(OF)F,fluorine dioxide,F₂O₂,-57.0,degree Celsius,-163.5,degree Celsius
+F[As](F)(F)(F)F,arsenic pentafluoride,AsF₅,-53.2,degree Celsius,-79.8,degree Celsius
+C(=O)=S,carbonyl sulfide,COS,-50.0,degree Celsius,-138.8,degree Celsius
+CC=C,propylene,C₃H₆,-47.69,degree Celsius,-185.25,degree Celsius
+O=S(F)F,thionyl fluoride,F₂OS,-43.8,degree Celsius,-129.5,degree Celsius
+CCF,fluoroethane,C₂H₅F,-37.65,degree Celsius,-143.2,degree Celsius
+C(C(F)(F)F)(C(F)(F)F)(F)F,octafluoropropane,C₃F₈,-36.65,degree Celsius,-147.69,degree Celsius
+I,hydrogen iodide,HI,-35.55,degree Celsius,-50.8,degree Celsius
+C=C=C,propadiene,C₃H₄,-34.45,degree Celsius,-136.28,degree Celsius
+C1CC1,cyclopropane,C₃H₆,-32.86,degree Celsius,-127.62,degree Celsius
+C(=C(F)F)(C(F)(F)F)F,hexafluoropropylene,C₃F₆,-29.6,degree Celsius,-156.5,degree Celsius
+C(=C(F)Cl)(F)F,chlorotrifluoroethylene,C₂ClF₃,-27.85,degree Celsius,-158.0,degree Celsius
+C(C(F)(F)F)F,norflurane,C₂H₂F₄,-26.0,degree Celsius,-103.3,degree Celsius
+CC(F)F,"1,1-difluoroethane",C₂H₄F₂,-25.0,degree Celsius,-390.1,degree Celcius
+COC,dimethyl ether,C₂H₆O,-24.8,degree Celsius,-141.5,degree Celsius
+C(=C(F)F)Cl,"2-chloro-1,1-difluoroethylene",C₂HClF₂,-18.55,degree Celsius,-138.5,degree Celsius
+[Si]#[Si],disilane,H₆Si₂,-14.3,degree Celsius,-132.5,degree Celsius
+CC(F)(F)Cl,"1-chloro-1,1-difluoroethane",C₂H₃ClF₂,-9.75,degree Celsius,-130.8,degree Celsius
+CC(=C)C,isobutylene,C₄H₈,-6.95,degree Celsius,-140.4,degree Celsius
+CCC=C,1-butene,C₄H₈,-6.26,degree Celsius,-185.35,degree Celsius
+C1(C(C(C1(F)F)(F)F)(F)F)(F)F,octafluorocyclobutane,C₄F₈,-5.99,degree Celsius,-40.19,degree Celsius
+N(=O)Cl,nitrosyl chloride,ClNO,-5.55,degree Celsius,-61.5,degree Celsius
+C(F)(F)(Cl)Br,bromochlorodifluoromethane,CBrClF₂,-3.72,degree Celsius,-159.5,degree Celsius
+[TeH2],hydrogen telluride,H₂Te,-2.0,degree Celsius,-49.0,degree Celsius
+C(C(C(F)(F)F)(F)F)(C(F)(F)F)(F)F,perfluorobutane,C₄F₁₀,-1.95,degree Celsius,-128.2,degree Celsius
+CC=CC,trans-2-butene,C₄H₈,0.88,degree Celsius,-105.53,degree Celsius
+O(Cl)Cl,dichlorine monoxide,Cl₂O,2.2,degree Celsius,-120.6,degree Celsius
+CBr,methyl bromide,CH₃Br,3.6,degree Celsius,-93.7,degree Celsius
+N(=O)[N+](=O)[O-],dinitrogen trioxide,N₂O₃,4.5,degree Celsius,-102.0,degree Celsius
+CC1=CC1,1-methylcyclopropene,C₄H₆,4.7,degree Celsius,100.0,degree Celsius
+COC=C,methyl vinyl ether,C₃H₆O,5.5,degree Celsius,-122.0,degree Celsius
+CCOC,methoxyethane,C₃H₈O,7.45,degree Celsius,-113.0,degree Celsius
+CCC#C,1-butyne,C₄H₆,8.08,degree Celsius,-125.72,degree Celsius
+[SiH2](Cl)Cl,dichlorosilane,Cl₂H₂Si,8.3,degree Celsius,-122.0,degree Celsius
+CC(C)(C)C,neopentane,C₅H₁₂,9.48,degree Celsius,-16.6,degree Celsius
+CC=C=C,"1,2-butadiene",C₄H₆,10.9,degree Celsius,-136.2,degree Celsius
+C1CCC1,cyclobutane,C₄H₈,12.5,degree Celsius,-91.0,degree Celsius
+B(Cl)(Cl)Cl,boron trichloride,BCl₃,12.65,degree Celsius,-107.0,degree Celsius
+F[W](F)(F)(F)(F)F,tungsten hexafluoride,WF₆,17.0,degree Celsius,2.3,degree Celsius
+[B]1B2B1[B]2,tetraborane(10),B₄H₁₀,18.0,degree Celsius,-120.0,degree Celsius
+[N+](=O)([N+](=O)[O-])[O-],dinitrogen tetroxide,N₂O₄,21.1,degree Celsius,-9.3,degree Celsius
+CC(=C)Cl,2-chloropropene,C₃H₅Cl,22.65,degree Celsius,-138.0,degree Celsius
+C=CCC=C,"1,4-pentadiene",C₅H₈,26.0,degree Celsius,-148.8,degree Celsius
+CC#CC,2-butyne,C₄H₆,26.97,degree Celsius,-32.0,degree Celsius
+CCC(C)C,isopentane,C₅H₁₂,27.88,degree Celsius,-159.9,degree Celsius
+C=COC=C,divinyl ether,C₄H₆O,28.3,degree Celsius,-101.0,degree Celsius
+CCCC=C,1-pentene,C₅H₁₀,29.96,degree Celsius,-165.2,degree Celsius
+CCC(=C)C,2-methyl-1-butene,C₅H₁₀,31.2,degree Celsius,-137.57,degree Celsius
+C1=COC=C1,furan,C₄H₄O,31.5,degree Celsius,-85.0,degree Celsius
+[SiH](Cl)(Cl)Cl,trichlorosilane,Cl₃HSi,33.0,degree Celsius,-127.0,degree Celsius
+F[Mo](F)(F)(F)(F)F,molybdenum hexafluoride,F₆Mo,34.0,degree Celsius,17.5,degree Celsius
+CC(=C)C=C,isoprene,C₅H₈,34.06,degree Celsius,-146.0,degree Celsius
+CCOC=C,ethyl vinyl ether,C₄H₈O,35.55,degree Celsius,-115.0,degree Celsius
+CC(C)Cl,isopropyl chloride,C₃H₇Cl,35.7,degree Celsius,-117.0,degree Celsius
+N=[N+]=[N-],hydrogen azide,HN₃,35.7,degree Celsius,-80.0,degree Celsius
+CCC=CC,(2E)-2-pentene,C₅H₁₀,36.34,degree Celsius,-136.0,degree Celsius
+CSC,dimethyl sulfide,C₂H₆S,37.33,degree Celsius,-98.3,degree Celsius
+CC=C(C)C,2-methyl-2-butene,C₅H₁₀,38.56,degree Celsius,-133.76,degree Celsius
+CN=C=O,methyl isocyanate,C₂H₃NO,39.5,degree Celsius,-45.0,degree Celcius
+CC=CC=C,"(3E)-1,3-pentadiene",C₅H₈,42.0,degree Celsius,-87.0,degree Celsius
+CC(C)(C)N,tert-butylamine,C₄H₁₁N,44.04,degree Celsius,-66.95,degree Celsius
+C1CC=CC1,cyclopentene,C₅H₈,44.24,degree Celsius,-135.1,degree Celsius
+O=S(=O)=O,sulfur trioxide,O₃S,44.9,degree Celsius,16.83,degree Celsius
+CCCCl,propyl chloride,C₃H₇Cl,46.5,degree Celsius,-122.8,degree Celsius
+[N+](=O)([O-])O[N+](=O)[O-],dinitrogen pentoxide,N₂O₅,47.0,degree Celsius,30.0,degree Celsius
+CCCN,propylamine,C₃H₉N,47.22,degree Celsius,-83.0,degree Celsius
+C(C(F)(F)Br)(F)(F)Br,"1,2-dibromo-1,1,2,2-tetrafluoroethane",C₂Br₂F₄,47.35,degree Celsius,-110.4,degree Celsius
+C1COC1,oxetane,C₃H₆O,47.6,degree Celsius,-97.0,degree Celsius
+CCC=O,propionaldehyde,C₃H₆O,48.0,degree Celsius,-81.0,degree Celsius
+[F-].[F-].[F-].[F-].[F-].[V],vanadium pentafluoride,F₅V,48.3,degree Celsius,19.5,degree Celsius
+C(=O)(C(C(F)(F)F)(C(F)(F)F)F)C(C(F)(F)F)(F)F,perfluoro(2-methyl-3-pentanone),C₆F₁₂O,49.2,degree Celsius,-108.0,degree Celsius
+C(=O)C=O,glyoxal,C₂H₂O₂,50.4,degree Celsius,15.0,degree Celsius
+CC(=O)Cl,acetyl chloride,C₂H₃ClO,50.75,degree Celsius,-112.85,degree Celsius
+CC(C)(C)Cl,tert-butyl chloride,C₄H₉Cl,50.9,degree Celsius,-26.0,degree Celsius
+CC(C)S,isopropyl mercaptan,C₃H₈S,52.6,degree Celsius,-131.0,degree Celsius
+B1NBNBN1,borazine,B₃H₆N₃,53.0,degree Celsius,-58.0,degree Celsius
+CC(C)CC=C,4-methyl-1-pentene,C₆H₁₂,53.9,degree Celsius,-154.0,degree Celsius
+C=CCN,allylamine,C₃H₇N,54.0,degree Celsius,-88.0,degree Celsius
+CC(C)(C)OC,tert-butyl methyl ether,C₅H₁₂O,55.2,degree Celsius,-108.6,degree Celsius
+CC(C)C(=C)C,"2,3-dimethylbut-1-ene",C₆H₁₂,55.6,degree Celsius,-157.0,degree Celsius
+CC=CC(C)C,(2Z)-4-methyl-2-pentene,C₆H₁₂,56.3,degree Celsius,-134.8,degree Celsius
+F[U](F)(F)(F)(F)F,uranium hexafluoride,F₆U,56.5,degree Celsius,64.05,degree Celsius
+[Si](Cl)(Cl)(Cl)Cl,silicon tetrachloride,Cl₄Si,57.65,degree Celsius,-68.85,degree Celsius
+F[As](F)F,arsenic trifluoride,AsF₃,57.8,degree Celsius,-5.9,degree Celsius
+CC(C)C(C)C,"2,3-dimethylbutane",C₆H₁₄,57.98,degree Celsius,-129.0,degree Celsius
+NO,hydroxylamine,NH₂OH,58.0,degree Celsius,33.1,degree Celsius
+BrBr,dibromine,Br₂,58.8,degree Celsius,-7.2,degree Celsius
+CC(C)Br,2-bromopropane,C₃H₇Br,59.5,degree Celsius,-89.0,degree Celsius
+CCCC(C)C,2-methylpentane,C₆H₁₄,60.26,degree Celsius,-154.0,degree Celsius
+C(#N)Br,cyanogen bromide,CBrN,61.5,degree Celsius,52.0,degree Celsius
+CCCC(=C)C,2-methyl-1-pentene,C₆H₁₂,62.1,degree Celsius,-136.0,degree Celsius
+CCC(C)N,sec-butylamine,C₄H₁₁N,62.73,degree Celsius,-104.0,degree Celsius
+CCC(C)CC,3-methylpentane,C₆H₁₄,63.27,degree Celsius,-118.0,degree Celsius
+CCC1CO1,"1,2-epoxybutane",C₄H₈O,63.3,degree Celsius,-57.2,degree Celsius
+CCCCC=C,1-hexene,C₆H₁₂,63.48,degree Celsius,-139.76,degree Celsius
+CC(C)(C)S,2-methylpropane-2-thiol,C₄H₁₀S,64.3,degree Celsius,-0.5,degree Celsius
+CC(C)C=O,isobutyraldehyde,C₄H₈O,64.5,degree Celsius,-65.9,degree Celsius
+CCC(=C)CC,3-methylenepentane,C₆H₁₂,64.7,degree Celsius,-131.5,degree Celsius
+B(B(Cl)Cl)(Cl)Cl,diboron tetrachloride,B₂Cl₄,65.0,degree Celsius,-92.6,degree Celsius
+CCCSSCC=C,allyl propyl disulfide,C₆H₁₂S₂,66.0,degree Celsius,-15.0,degree Celcius
+CCSC,ethyl methyl sulfide,C₃H₈S,66.7,degree Celsius,-106.0,degree Celsius
+O=S(=O)(OOS(=O)(=O)F)F,peroxydisulfuryl difluoride,F₂O₆S₂,67.1,degree Celsius,-55.4,degree Celsius
+CCC=C(C)C,2-methyl-2-pentene,C₆H₁₂,67.3,degree Celsius,-135.0,degree Celsius
+B(OC)(OC)OC,trimethyl borate,C₃H₉BO₃,67.5,degree Celsius,-29.3,degree Celsius
+CC(C)CN,isobutylamine,C₄H₁₁N,67.75,degree Celsius,-85.0,degree Celsius
+CCCC=CC,(2E)-2-hexene,C₆H₁₂,67.9,degree Celsius,-133.0,degree Celsius
+CCC(C)Cl,2-chlorobutane,C₄H₉Cl,68.3,degree Celsius,-141.0,degree Celsius
+O=S(=O)(Cl)Cl,sulfuryl chloride,Cl₂O₂S,69.4,degree Celsius,-51.0,degree Celsius
+C=CCBr,allyl bromide,C₃H₅Br,70.1,degree Celsius,-119.0,degree Celsius
+CCCBr,propyl bromide,C₃H₇Br,71.1,degree Celsius,-110.0,degree Celsius
+CC1CCCC1,methylcyclopentane,C₆H₁₂,71.8,degree Celsius,-142.5,degree Celsius
+C(=O)(C(F)(F)F)O,trifluoroacetic acid,C₂HF₃O₂,72.0,degree Celsius,-15.0,degree Celsius
+CCI,iodoethane,C₂H₅I,72.5,degree Celsius,-111.1,degree Celsius
+CC(C)(C)Br,2-bromo-2-methylpropane,C₄H₉Br,73.3,degree Celsius,-16.2,degree Celsius
+CC(=C(C)C)C,"2,3-dimethyl-2-butene",C₆H₁₂,73.3,degree Celsius,-74.6,degree Celsius
+CCCC=O,butyraldehyde,C₄H₈O,74.8,degree Celsius,-99.0,degree Celsius
+CN(CCCl)CCCl,mechlorethamine,C₅H₁₁Cl₂N,75.0,degree Celsius,-60.0,degree Celsius
+CC(=O)Br,acetyl bromide,C₂H₃BrO,76.0,degree Celsius,-96.0,degree Celsius
+C1COCO1,"1,3-dioxolane",C₃H₆O₂,78.0,degree Celsius,-95.0,degree Celsius
+Cl[Sb](Cl)(Cl)(Cl)Cl,antimony pentachloride,SbCl₅,79.0,degree Celsius,2.8,degree Celsius
+C[Si](C)(C)Br,Bromotrimethylsilane,C₃H₉BrSi,79.0,degree Celsius,-44.0,degree Celsius
+CCCC(C)(C)C,"2,2-dimethylpentane",C₇H₁₆,79.2,degree Celsius,-123.8,degree Celsius
+CCC(=O)OC,methyl propionate,C₄H₈O₂,79.8,degree Celsius,-87.5,degree Celsius
+C1CC=CC=C1,"1,3-Cyclohexadiene",C₆H₈,80.0,degree Celsius,-89.0,degree Celsius
+C1(=C(C(=C(C(=C1F)F)F)F)F)F,hexafluorobenzene,C₆F₆,80.26,degree Celsius,5.2,degree Celsius
+CC(C)CC(C)C,"2,4-dimethylpentane",C₇H₁₆,80.49,degree Celsius,-119.9,degree Celsius
+CCCOC=O,propyl formate,C₄H₈O₂,80.6,degree Celsius,-92.9,degree Celsius
+CC(C)C(C)(C)C,"2,2,3-trimethylbutane",C₇H₁₆,80.86,degree Celsius,-25.0,degree Celsius
+CC=CC1=CC=C(C=C1)OC,anethole,C₁₀H₁₂O,81.0,degree Celsius,22.0,degree Celsius
+CC(=O)C=C,methyl vinyl ketone,C₄H₆O,81.4,degree Celsius,-7.0,degree Celsius
+O=Cl(=O)(=O)OCl(=O)(=O)=O,chlorine heptoxide,Cl₂O₇,82.0,degree Celsius,-91.57,degree Celsius
+C1=CSC=C1,thiophene,C₄H₄S,84.0,degree Celsius,-39.4,degree Celsius
+C1=CC=C(C=C1)F,fluorobenzene,C₆H₅F,84.73,degree Celsius,-42.0,degree Celsius
+COCCOC,"1,2-dimethoxyethane",C₄H₁₀O₂,85.0,degree Celsius,-69.0,degree Celsius
+CCC(C)S,2-butanethiol,C₄H₁₀S,85.0,degree Celsius,-165.0,degree Celsius
+C(#N)C(Cl)(Cl)Cl,trichloroacetonitrile,C₂Cl₃N,85.7,degree Celsius,-44.0,degree Celsius
+Cl[Ge](Cl)(Cl)Cl,germanium tetrachloride,GeCl₄,86.55,degree Celsius,-49.5,degree Celsius
+C1CCNC1,pyrrolidine,C₄H₉N,86.56,degree Celsius,-57.84,degree Celsius
+C(Cl)(Cl)Br,bromodichloromethane,CHBrCl₂,87.0,degree Celsius,-57.0,degree Celsius
+C1C=CCC=C1,"1,4-cyclohexadiene",C₆H₈,88.0,degree Celsius,-49.0,degree Celsius
+C1CCOCC1,tetrahydropyran,C₅H₁₀O,88.0,degree Celsius,-49.0,degree Celsius
+C1=CC(=CC=C1F)F,p-difluorobenzene,C₆H₄F₂,89.0,degree Celsius,-13.0,degree Celsius
+CC(C)I,isopropyl iodide,C₃H₇I,89.5,degree Celsius,-90.0,degree Celsius
+CCCCC(C)C,2-methylhexane,C₇H₁₆,90.04,degree Celsius,-118.2,degree Celsius
+CCCOCCC,n-propyl ether,C₆H₁₄O,90.08,degree Celsius,-122.0,degree Celsius
+COC(=O)OC,dimethyl carbonate,C₃H₆O₃,90.11,degree Celsius,-1.0,degree Celsius
+CCC(C)Br,2-bromobutane,C₄H₉Br,91.4,degree Celsius,-112.7,degree Celsius
+CCCCCCCCCCCC(=O)O,lauric acid,C₁₂H₂₄O₂,91.4,degree Celsius,43.22,degree Celsius
+CCCC(C)CC,3-methylhexane,C₇H₁₆,91.84,degree Celsius,-119.4,degree Celsius
+CC1CCCC1C,"trans-1,2-dimethylcyclopentane",C₇H₁₄,91.9,degree Celsius,-117.5,degree Celsius
+CCSCC,diethyl sulfide,C₄H₁₀S,92.1,degree Celsius,-104.0,degree Celsius
+CCCCOCC,butyl ethyl ether,C₆H₁₄O,92.3,degree Celsius,-124.0,degree Celsius
+CC(C)C(=O)OC,methyl isobutyrate,C₅H₁₀O₂,92.5,degree Celsius,-85.0,degree Celsius
+C[Hg]C,dimethylmercury,C₂H₆Hg,93.0,degree Celsius,-43.0,degree Celsius
+CCCCCC(CCC)CC(C)C,2-methyl-4-propylnonane,C₇H₁₆,93.5,degree Celsius,-118.6,degree Celsius
+CCCCCC=C,hept-1-ene,C₇H₁₄,93.64,degree Celsius,-119.0,degree Celsius
+CCCCOC=C,vinyl butyl ether,C₆H₁₂O,94.0,degree Celsius,-92.0,degree Celsius
+C(Br)Br,dibromomethane,CH₂Br₂,97.0,degree Celsius,-53.0,degree Celsius
+C(=O)C(Cl)(Cl)Cl,chloral,C₂HCl₃O,97.8,degree Celsius,-57.5,degree Celsius
+CC(C)COC=O,isobutyl formate,C₅H₁₀O₂,98.25,degree Celsius,-95.8,degree Celsius
+CC(C)CCCl,isoamyl chloride,C₅H₁₁Cl,98.9,degree Celsius,-104.0,degree Celsius
+CCC(=O)OCC,ethyl propionate,C₅H₁₀O₂,99.1,degree Celsius,-73.0,degree Celsius
+CC(C)CC(C)(C)C,"2,2,4-trimethylpentane",C₈H₁₈,99.22,degree Celsius,-107.0,degree Celsius
+O,water,H₂O,99.9839,degree Celsius,0.0,degree Celsius
+C(C(=O)O)O,hydroxyacetic acid,C₂H₄O₃,100.0,degree Celsius,77.0,degree Celsius
+CCCCCCCCCCCC(=O)N(C)CC(=O)[O-].[Na+],sodium lauroyl sarcosinate,C₁₅H₂₈NNaO₃,100.0,degree Celsius,-1.0,degree Celsius
+FI(F)(F)(F)F,iodine pentafluoride,F₅I,100.5,degree Celsius,9.43,degree Celsius
+C(=O)O,formic acid,CH₂O₂,100.7,degree Celsius,8.25,degree Celsius
+CC(C)O[N+](=O)[O-],isopropyl nitrate,C₃H₇NO₃,101.5,degree Celsius,-82.5,degree Celsius
+CCCCBr,1-bromobutane,C₄H₉Br,101.6,degree Celsius,-112.0,degree Celsius
+CSC(SC)SC,tris(methylthio)methane,C₄H₁₀S₃,102.0,degree Celsius,16.0,degree Celsius
+C1=CC=C(C=C1)C(F)(F)F,benzotrifluoride,C₇H₅F₃,102.1,degree Celsius,-29.0,degree Celsius
+CCOC(C)OCC,"1,1-diethoxyethane",C₆H₁₄O₂,102.25,degree Celsius,-100.0,degree Celsius
+CCC(C)(C)O,amylene hydrate,C₅H₁₂O,102.4,degree Celsius,-8.8,degree Celsius
+CCCI,propyl iodide,C₃H₇I,102.6,degree Celsius,-101.0,degree Celsius
+CCCC(=O)OC,methyl butyrate,C₅H₁₀O₂,102.8,degree Celsius,-85.0,degree Celsius
+CCC1CCCC1,ethylcyclopentane,C₇H₁₄,103.5,degree Celsius,-138.44,degree Celsius
+CCCCCN,pentylamine,C₅H₁₃N,104.3,degree Celsius,-55.0,degree Celsius
+C(Cl)(Cl)(Cl)Br,bromotrichloromethane,CBrCl₃,105.0,degree Celsius,-5.7,degree Celsius
+C1CCNCC1,piperidine,C₅H₁₁N,106.0,degree Celsius,-9.0,degree Celsius
+CCCCC(C)(C)C,"2,2-dimethylhexane",C₈H₁₈,106.0,degree Celsius,-121.18,degree Celsius
+CCCCOC=O,butyl formate,C₅H₁₀O₂,106.1,degree Celsius,-91.5,degree Celsius
+C1COCOC1,"1,3-dioxane",C₄H₈O₂,106.1,degree Celsius,-45.0,degree Celsius
+CC(=O)C(C)(C)C,pinacolone,C₆H₁₂O,106.1,degree Celsius,-53.0,degree Celsius
+C(CBr)Cl,1-bromo-2-chloroethane,C₂H₄BrCl,107.0,degree Celsius,-18.0,degree Celsius
+CCCCCCl,1-chloropentane,C₅H₁₁Cl,107.8,degree Celsius,-99.0,degree Celsius
+CC(Br)Br,"1,1-dibromoethane",C₂H₄Br₂,108.1,degree Celsius,-63.0,degree Celsius
+[Si](Br)(Br)Br,tribromosilane,Br₃HSi,109.0,degree Celsius,-73.0,degree Celsius
+CC(C)CCC(C)C,"2,5-dimethylhexane",C₈H₁₈,109.12,degree Celsius,-91.0,degree Celsius
+CCCNCCC,N-dipropylamine,C₆H₁₅N,109.3,degree Celsius,-63.0,degree Celsius
+CSSC,dimethyl disulfide,C₂H₆S₂,109.8,degree Celsius,-85.0,degree Celsius
+CC(=O)OO,peracetic acid,C₂H₄O₃,110.0,degree Celsius,0.1,degree Celsius
+C1(=NN=NN1N=C(N=[N+]=[N-])N=[N+]=[N-])N=[N+]=[N-],1-diazidocarbamoyl-5-azidotetrazole,C₂N₁₄,110.0,degree Celsius,78.0,degree Celsius
+CCC(C)C(C)(C)C,"2,2,3-trimethylpentane",C₈H₁₈,110.0,degree Celsius,-112.26,degree Celsius
+CCOC(=O)C(C)C,ethyl isobutyrate,C₆H₁₂O₂,110.1,degree Celsius,-88.2,degree Celsius
+CCCC(C)(C)CC,"3,3-dimethylhexane",C₈H₁₈,111.97,degree Celsius,-126.1,degree Celsius
+CC(C)(C)CO,neopentyl alcohol,C₅H₁₂O,113.5,degree Celsius,52.5,degree Celsius
+CC(C)C(C)C(C)C,"2,3,4-trimethylpentane",C₈H₁₈,113.5,degree Celsius,-110.0,degree Celsius
+Cl[Sn](Cl)(Cl)Cl,stannic chloride,Cl₄Sn,114.15,degree Celsius,-33.0,degree Celsius
+C1OCOCO1,"1,3,5-trioxane",C₃H₆O₃,114.5,degree Celsius,60.2,degree Celsius
+CCC(C)(C)C(C)C,"2,3,3-trimethylpentane",C₈H₁₈,114.8,degree Celsius,-100.93,degree Celsius
+C1=CN=CC=N1,pyrazine,C₄H₄N₂,115.0,degree Celsius,55.0,degree Celsius
+CC1=CC(=CC=C1)F,m-fluorotoluene,C₇H₇F,115.0,degree Celsius,-87.0,degree Celsius
+CC1=CC=CC=C1F,O-fluorotoluene,C₇H₇F,115.0,degree Celsius,-87.0,degree Celsius
+CCC(CC)C(C)C,3-ethyl-2-methylpentane,C₈H₁₈,115.66,degree Celsius,-114.95,degree Celsius
+BrI,iodine monobromide,BrI,116.0,degree Celsius,40.0,degree Celsius
+C(CN)N,ethylenediamine,C₂H₈N₂,116.1,degree Celsius,8.3,degree Celsius
+CCC(CC)O,3-pentanol,C₅H₁₂O,116.25,degree Celsius,-69.0,degree Celsius
+CC1=CC=C(C=C1)F,p-fluorotoluene,C₇H₇F,116.6,degree Celsius,-56.0,degree Celsius
+CCOC(=O)C(=C)C,ethyl methacrylate,C₆H₁₀O₂,117.0,degree Celsius,-60.0,degree Celsius
+CCCCCC(C)C,2-methylheptane,C₈H₁₈,117.66,degree Celsius,-108.99,degree Celsius
+CCCC(C)CCC,4-methylheptane,C₈H₁₈,117.72,degree Celsius,-121.0,degree Celsius
+C(=O)(C(Cl)(Cl)Cl)Cl,trichloroacetyl chloride,C₂Cl₄O,117.95,degree Celsius,-146.0,degree Celsius
+C1CCCCCC1,cycloheptane,C₇H₁₄,118.4,degree Celsius,-8.03,degree Celsius
+CCCCC(C)CC,3-methylheptane,C₈H₁₈,118.94,degree Celsius,-121.0,degree Celsius
+CCCC(C)O,2-pentanol,C₅H₁₂O,119.3,degree Celsius,-73.0,degree Celsius
+CC1CCC(CC1)C,"trans-1,4-dimethylcyclohexane",C₈H₁₆,119.4,degree Celsius,-36.9,degree Celsius
+CC1(CCCCC1)C,"1,1-dimethylcyclohexane",C₈H₁₆,119.6,degree Celsius,-33.3,degree Celsius
+CC1CCCC(C1)C,"(Z)-1,3-Dimethylcyclohexane",C₈H₁₆,120.1,degree Celsius,-75.6,degree Celsius
+C1CCSC1,tetrahydrothiophene,C₄H₈S,121.0,degree Celsius,-96.0,degree Celsius
+CC(C)CI,isobutyl iodide,C₄H₉I,121.1,degree Celsius,-90.7,degree Celsius
+CCCCCCC=C,1-octene,C₈H₁₆,121.29,degree Celsius,-102.0,degree Celsius
+CCCC(=O)OCC,ethyl butyrate,C₆H₁₂O₂,121.5,degree Celsius,-98.0,degree Celsius
+C1CCC(CC1)N=C=NC2CCCCC2,dicyclohexylcarbodiimide,C₁₃H₂₂N₂,122.0,degree Celsius,35.75,degree Celsius
+CC(C(=O)O)O,DL-lactic acid,C₃H₆O₃,122.0,degree Celsius,18.0,degree Celsius
+CCC(C)(C)C(C)(C)C,"2,2,3,3-tetramethylpentane",C₉H₂₀,122.29,degree Celsius,-66.54,degree Celsius
+CCCOC(=O)CC,propyl propionate,C₆H₁₂O₂,122.5,degree Celsius,-76.0,degree Celsius
+CC1CCCCC1C,"1,trans-2-Dimethylcyclohexane",C₈H₁₆,123.5,degree Celsius,-90.0,degree Celsius
+CC(C)CCOC=O,isopentyl formate,C₆H₁₂O₂,123.55,degree Celsius,-93.5,degree Celsius
+C1=CN=CN=C1,pyrimidine,C₄H₄N₂,123.8,degree Celsius,22.0,degree Celsius
+CC(C)CCC(C)(C)C,"2,2,5-trimethylhexane",C₉H₂₀,124.09,degree Celsius,-105.76,degree Celsius
+CC1OC(OC(O1)C)C,paraldehyde,C₆H₁₂O₃,124.35,degree Celsius,12.6,degree Celsius
+P(=S)(Cl)(Cl)Cl,thiophosphoryl chloride,Cl₃PS,125.0,degree Celsius,-36.2,degree Celsius
+C(=[Se])=[Se],carbon diselenide,CSe₂,125.5,degree Celsius,-43.7,degree Celsius
+FBr(F)F,bromine trifluoride,BrF₃,125.8,degree Celsius,8.77,degree Celsius
+CCOC(=O)OCC,ethyl carbonate,C₅H₁₀O₃,126.0,degree Celsius,-43.0,degree Celsius
+O=[V].Cl.Cl.Cl,vanadium(V) oxytrichloride,VOCl₃,127.0,degree Celsius,-79.0,degree Celsius
+C(=O)(OC(Cl)(Cl)Cl)Cl,diphosgene,C₂Cl₄O₂,127.5,degree Celsius,-57.0,degree Celsius
+C(=NO)(Cl)Cl,phosgene oxime,CHCl₂NO,128.0,degree Celsius,37.5,degree Celsius
+COC(=O)CCl,methyl chloroacetate,C₃H₅ClO₂,129.5,degree Celsius,-32.12,degree Celsius
+C1=CNC=C1,pyrrole,C₄H₅N,129.74,degree Celsius,-23.39,degree Celsius
+CCCCCBr,1-bromopentane,C₅H₁₁Br,129.8,degree Celsius,-95.0,degree Celsius
+[H+].[B-](F)(F)(F)F,tetrafluoroboric acid,BF₄H,130.0,degree Celsius,-90.0,degree Celsius
+Cl[As](Cl)Cl,arsenic trichloride,AsCl₃,130.0,degree Celsius,-16.0,degree Celsius
+C1CCC(=O)C1,cyclopentanone,C₅H₈O,130.57,degree Celsius,-51.3,degree Celsius
+CCCCI,butyl iodide,C₄H₉I,130.6,degree Celsius,-103.0,degree Celsius
+CCCCCC=O,hexanal,C₆H₁₂O,131.0,degree Celsius,-56.0,degree Celsius
+CCC1CCCCC1,ethylcyclohexane,C₈H₁₆,131.9,degree Celsius,-111.3,degree Celsius
+CCCCCCN,hexylamine,C₆H₁₅N,132.8,degree Celsius,-22.9,degree Celsius
+CC(C)C(C)C(C)(C)C,"2,2,3,4-tetramethylpentane",C₉H₂₀,133.03,degree Celsius,-121.09,degree Celsius
+CCCCCCCl,1-chlorohexane,C₆H₁₃Cl,135.0,degree Celsius,-94.0,degree Celsius
+CCOC(=O)CC(C)C,ethyl isovalerate,C₇H₁₄O₂,135.05,degree Celsius,-99.3,degree Celsius
+Cl[Ti](Cl)(Cl)Cl,titanium tetrachloride,Cl₄Ti,136.4,degree Celsius,-24.8,degree Celsius
+CCC(=O)OCC(C)C,isobutyl propionate,C₇H₁₄O₂,137.0,degree Celsius,-71.4,degree Celsius
+CCCCCO,1-pentanol,C₅H₁₂O,137.98,degree Celsius,-78.9,degree Celsius
+CC(=O)CC(=O)C,acetylacetone,C₅H₈O₂,138.0,degree Celsius,-23.0,degree Celsius
+C=CCSCC=C,diallyl sulfide,C₆H₁₀S,138.6,degree Celsius,-83.0,degree Celsius
+CCCCOCCCC,butyl ether,C₈H₁₈O,140.28,degree Celsius,-95.0,degree Celsius
+C1CCC(C1)O,cyclopentanol,C₅H₁₀O,140.42,degree Celsius,-19.0,degree Celsius
+CCCCC#N,valeronitrile,C₅H₉N,141.3,degree Celsius,-96.0,degree Celsius
+CC(CBr)Br,"1,2-dibromopropane",C₃H₆Br₂,141.9,degree Celsius,-55.0,degree Celsius
+C1CCC(CC1)Cl,chlorocyclohexane,C₆H₁₁Cl,142.0,degree Celsius,-44.0,degree Celsius
+CCCCCCC(C)C,2-methyloctane,C₉H₂₀,143.0,degree Celsius,-80.3,degree Celsius
+C1CCCC=CCC1,(E)-cyclooctene,C₈H₁₄,143.0,degree Celsius,-59.0,degree Celsius
+CCCC(=O)OCCC,propyl butyrate,C₇H₁₄O₂,143.05,degree Celsius,-95.2,degree Celsius
+CC1=NC(=CC=C1)C,"2,6-lutidine",C₇H₉N,144.1,degree Celsius,-7.0,degree Celsius
+CCOC(=O)CCl,ethyl chloroacetate,C₄H₇ClO₂,144.3,degree Celsius,-21.0,degree Celsius
+CC1=CC=NC=C1,4-methylpyridine,C₆H₇N,145.36,degree Celsius,3.66,degree Celsius
+CCOC(OCC)OCC,ethyl orthoformate,C₇H₁₆O₃,145.9,degree Celsius,-76.0,degree Celsius
+CCC(CC)(CC)CC,tetraethylmethane,C₉H₂₀,146.3,degree Celsius,-33.1,degree Celsius
+CCC(CC)CO,2-ethyl-1-butanol,C₆H₁₄O,146.5,degree Celsius,-114.4,degree Celsius
+CCCCOC(=O)CC,butyl propionate,C₇H₁₄O₂,146.8,degree Celsius,-89.0,degree Celsius
+CC(C)COC(=O)C(C)C,isobutyl isobutyrate,C₈H₁₆O₂,148.65,degree Celsius,-81.0,degree Celsius
+CC(C)(C)SC(C)(C)C,tert-butyl sulfide,C₈H₁₈S,149.1,degree Celsius,-9.0,degree Celsius
+C1CC=CCCC=C1,"(1Z,5Z)-1,5-cyclooctadiene",C₈H₁₂,150.0,degree Celsius,-70.0,degree Celsius
+OO,hydrogen peroxide,H₂O₂,150.2,degree Celsius,-0.43,degree Celsius
+CCCCCCCCC,nonane,C₉H₂₀,150.82,degree Celsius,-51.1,degree Celcius
+CC(C)OP(=O)(C)F,sarin,C₄H₁₀FO₂P,151.5,degree Celsius,-56.0,degree Celsius
+C=CCN=C=S,allyl isothiocyanate,C₄H₅NS,151.5,degree Celsius,-80.0,degree Celsius
+Cl[V](Cl)(Cl)Cl,vanadium(IV) chloride,VCl₄,152.0,degree Celsius,-25.7,degree Celsius
+CCCCCCC=O,heptanal,C₇H₁₄O,152.8,degree Celsius,-43.0,degree Celsius
+COC1=CC=CC=C1,anisole,C₇H₈O,153.6,degree Celsius,-37.0,degree Celsius
+[Si](Br)(Br)(Br)Br,silicon tetrabromide,Br₄Si,154.0,degree Celsius,5.2,degree Celsius
+CCOC(=O)C(C)O,ethyl DL-lactate,C₅H₁₀O₃,154.0,degree Celsius,-25.0,degree Celsius
+CC(C)C(=O)O,2-methylpropanoic acid,C₄H₈O₂,154.45,degree Celsius,-46.0,degree Celsius
+CC1=CCC2CC1C2(C)C,alpha-pinene,C₁₀H₁₆,156.0,degree Celsius,-64.0,degree Celsius
+C1=CC=C(C=C1)Br,bromobenzene,C₆H₅Br,156.06,degree Celsius,-31.0,degree Celsius
+CCCC1CCCCC1,propylcyclohexane,C₉H₁₈,156.7,degree Celsius,-94.9,degree Celsius
+CCCCCCO,1-hexanol,C₆H₁₄O,157.6,degree Celsius,-52.0,degree Celsius
+N(=O)O,nitrous acid,HNO₂,158.0,degree Celsius,42.35,degree Celsius
+CCCC1=CC=CC=C1,propylbenzene,C₉H₁₂,159.0,degree Celsius,-99.56,degree Celsius
+CCCCCC(C)O,2-heptanol,C₇H₁₆O,159.0,degree Celsius,-30.0,degree Celsius
+CCCCNCCCC,dibutylamine,C₈H₁₉N,159.6,degree Celsius,-62.0,degree Celsius
+C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,"2,4-D",C₈H₆Cl₂O₃,160.0,degree Celsius,137.8,degree Celcius
+CC1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],TNT,C₇H₅N₃O₆,160.0,degree Celsius,80.0,degree Celcius
+CN(C)C(=N)N(C)C,"1,1,3,3-tetramethylguanidine",C₅H₁₃N₃,160.0,degree Celsius,-30.0,degree Celsius
+CCC1=CC=CC(=C1)C,m-ethyltoluene,C₉H₁₂,161.3,degree Celsius,-96.0,degree Celsius
+CC1=CC(=CC=C1)Cl,3-chlorotoluene,C₇H₇Cl,161.8,degree Celsius,-48.0,degree Celsius
+CN(C)C1=CC=NC=C1,4-dimethylaminopyridine,C₇H₁₀N₂,162.0,degree Celsius,112.0,degree Celsius
+C1COC1=O,propiolactone,C₃H₄O₂,162.0,degree Celsius,-33.4,degree Celsius
+CCC1=CC=C(C=C1)C,p-ethyltoluene,C₉H₁₂,162.0,degree Celsius,-62.0,degree Celsius
+COCCOCCOC,diethylene glycol dimethylether,C₆H₁₄O₃,162.0,degree Celsius,-64.0,degree Celsius
+CC1=CC=C(C=C1)Cl,4-chlorotoluene,C₇H₇Cl,162.4,degree Celsius,7.5,degree Celsius
+CCCC(=O)O,butyric acid,C₄H₈O₂,163.0,degree Celsius,-8.0,degree Celsius
+CC1CCCCC1O,2-methylcyclohexanol,C₇H₁₄O,163.0,degree Celsius,-38.0,degree Celsius
+CCCCCC#N,capronitrile,C₆H₁₁N,163.65,degree Celsius,-80.3,degree Celsius
+CC(=O)C(=O)O,pyruvic acid,C₃H₄O₃,165.0,degree Celsius,11.5,degree Celsius
+CCC1=CC=CC=C1C,O-ethyltoluene,C₉H₁₂,165.2,degree Celsius,-80.8,degree Celsius
+CC1(C2CCC(=C)C1C2)C,beta-pinene,C₁₀H₁₆,166.0,degree Celsius,-61.5,degree Celsius
+CCCCOC(=O)CCC,butyl butyrate,C₈H₁₆O₂,166.0,degree Celsius,-91.5,degree Celsius
+CCC(=O)OC(=O)CC,propionic anhydride,C₆H₁₀O₃,167.0,degree Celsius,-45.0,degree Celsius
+CC(C)(C)C1=CC=CC=C1,tert-butylbenzene,C₁₀H₁₄,168.5,degree Celsius,-58.1,degree Celsius
+CC=CC(=O)O,isocrotonic acid,C₄H₆O₂,169.0,degree Celsius,15.0,degree Celsius
+CCOC1=CC=CC=C1,phenetole,C₈H₁₀O,169.81,degree Celsius,-30.0,degree Celsius
+C1CCCCCCCCCCCCCCC1,cyclohexadecane,C₁₆H₃₂,170.0,degree Celsius,61.0,degree Celsius
+CCCC(C)C(CC)O,4-methyl-3-heptanol,C₈H₁₈O,170.0,degree Celsius,-123.0,degree Celsius
+C1=CC(=C(C(=C1)O)O)O,pyrogallol,C₆H₆O₃,171.0,degree Celsius,133.0,degree Celsius
+CCCCCCCC=O,caprylaldehyde,C₈H₁₆O,171.0,degree Celsius,-23.0,degree Celsius
+CCC(C)CC(CC)O,5-methylheptan-3-ol,C₈H₁₈O,172.0,degree Celsius,-91.2,degree Celsius
+CC(C)CC1=CC=CC=C1,isobutylbenzene,C₁₀H₁₄,172.79,degree Celsius,-51.45,degree Celsius
+C(CS)CS,"1,3-propanedithiol",C₃H₈S₂,172.9,degree Celsius,-79.0,degree Celsius
+P(Br)(Br)Br,phosphorus tribromide,Br₃P,172.95,degree Celsius,-40.0,degree Celsius
+C1=CC(=CC(=C1)Cl)Cl,m-dichlorobenzene,C₆H₄Cl₂,173.0,degree Celsius,-25.0,degree Celsius
+CC(=CCCC(=O)C)C,6-methyl-5-hepten-2-one,C₈H₁₄O,173.0,degree Celsius,-67.0,degree Celsius
+CCC(C)C1=CC=CC=C1,sec-butylbenzene,C₁₀H₁₄,173.5,degree Celsius,-82.7,degree Celsius
+C(=O)(N)N,urea,CH₄N₂O,174.0,degree Celsius,132.7,degree Celsius
+CCCCCCCCCC,decane,C₁₀H₂₂,174.1,degree Celsius,-29.673,degree Celsius
+C1=CC=C(C(=C1)O)Cl,2-chlorophenol,C₆H₅ClO,174.9,degree Celsius,9.8,degree Celsius
+CC1=CC(=CC=C1)C(C)C,m-cymene,C₁₀H₁₄,175.1,degree Celsius,-63.7,degree Celsius
+C1CC2=CC=CC=C2C1,indane,C₉H₁₀,176.0,degree Celsius,-51.4,degree Celsius
+CCCCCCCO,heptyl alcohol,C₇H₁₆O,176.45,degree Celsius,-34.0,degree Celsius
+CC(C)CC(=O)O,isovaleric acid,C₅H₁₀O₂,176.55,degree Celsius,-29.3,degree Celsius
+CC1=CC=C(C=C1)C(C)C,p-cymene,C₁₀H₁₄,177.1,degree Celsius,-68.0,degree Celsius
+CC1=CC=CC=C1C(C)C,o-cymene,C₁₀H₁₄,178.1,degree Celsius,-71.5,degree Celsius
+CCCC(=O)OCCC(C)C,isoamyl butyrate,C₉H₁₈O₂,179.0,degree Celsius,-73.0,degree Celsius
+C1=CC=C(C=C1)C=O,benzaldehyde,C₇H₆O,179.05,degree Celsius,-26.0,degree Celsius
+CCCCCCC(C)O,2-octanol,C₈H₁₈O,179.88,degree Celsius,-32.0,degree Celsius
+C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl,nitrofen,C₁₂H₇Cl₂NO₃,180.0,degree Celsius,70.0,degree Celsius
+CC(=O)C1CCCCC1,cyclohexyl methyl ketone,C₈H₁₄O,180.0,degree Celsius,-34.0,degree Celsius
+CCOC(=O)CC(=O)C,ethyl acetoacetate,C₆H₁₀O₃,180.8,degree Celsius,-43.0,degree Celsius
+CCC1=CC(=CC=C1)CC,"1,3-diethylbenzene",C₁₀H₁₄,181.1,degree Celsius,-83.9,degree Celsius
+C(I)I,methylene iodide,CH₂I₂,182.0,degree Celsius,6.1,degree Celsius
+C1=CC=C2C(=C1)N=CO2,benzoxazole,C₇H₅NO,182.5,degree Celsius,30.5,degree Celsius
+CCCCC1=CC=CC=C1,n-butylbenzene,C₁₀H₁₄,183.31,degree Celsius,-87.9,degree Celsius
+CCC1=CC=C(C=C1)CC,"1,4-diethylbenzene",C₁₀H₁₄,183.79,degree Celsius,-43.0,degree Celsius
+II,diiodine,I₂,184.0,degree Celsius,114.0,degree Celsius
+CCC1=CC=CC=C1CC,"1,2-diethylbenzene",C₁₀H₁₄,184.0,degree Celsius,-31.0,degree Celsius
+CC1=CC=C(C=C1)Br,p-bromotoluene,C₇H₇Br,184.3,degree Celsius,28.5,degree Celsius
+CCCCC(CC)CO,2-ethylhexanol,C₈H₁₈O,184.62,degree Celsius,-70.0,degree Celsius
+CC1(OOC(OOC(OO1)(C)C)(C)C)C,triacetone triperoxide,C₉H₁₈O₆,184.93,degree Celsius,92.5,degree Celsius
+C1=CC=C(C=C1)CN,benzylamine,C₇H₉N,185.0,degree Celsius,-43.0,degree Celsius
+CCOC(=O)C(=O)OCC,diethyl oxalate,C₆H₁₀O₄,185.7,degree Celsius,-40.0,degree Celsius
+CCCCC(=O)O,valeric acid,C₅H₁₀O₂,186.15,degree Celsius,-32.0,degree Celsius
+C1=CNN=C1,pyrazole,C₃H₄N₂,187.0,degree Celsius,68.0,degree Celsius
+CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC,cocaine,C₁₇H₂₁NO₄,187.0,degree Celsius,98.0,degree Celsius
+C1CCC2CCCCC2C1,trans-decalin,C₁₀H₁₈,187.3,degree Celsius,-30.35,degree Celsius
+CC(=O)C1=CC=CC=N1,2-acetylpyridine,C₇H₇NO,188.0,degree Celsius,9.0,degree Celsius
+CCOCCOCCOCC,diethylene glycol diethyl ether,C₈H₁₈O₃,188.0,degree Celsius,-44.3,degree Celsius
+C1=CC=C(C=C1)I,iodobenzene,C₆H₅I,188.0,degree Celsius,-31.0,degree Celsius
+CCCCSCCCC,dibutyl sulfide,C₈H₁₈S,188.9,degree Celsius,-80.0,degree Celsius
+C(=O)(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,perfluorooctanoic acid,C₈HF₁₅O₂,189.0,degree Celsius,55.5,degree Celsius
+CS(=O)C,dimethyl sulfoxide,C₂H₆OS,189.0,degree Celsius,18.52,degree Celsius
+C(C(=O)O)Cl,chloroacetic acid,C₂H₃ClO₂,189.35,degree Celsius,61.3,degree Celsius
+CC(=O)OCCOC(=O)C,ethylene glycol diacetate,C₆H₁₀O₄,190.0,degree Celsius,-31.0,degree Celsius
+C(=C[As](Cl)Cl)Cl,Lewisite,C₂H₂AsCl₃,190.0,degree Celsius,0.1,degree Celsius
+CC(C(C)(C)C)OP(=O)(C)F,soman,C₇H₁₆FO₂,190.0,degree Celsius,-80.0,degree Celsius
+CCCCCCCCC=O,nonanal,C₉H₁₈O,191.0,degree Celsius,-19.3,degree Celsius
+C1=CC=C(C=C1)C#N,benzonitrile,C₇H₅N,191.15,degree Celsius,-12.75,degree Celsius
+CCCCCCCOC(=O)C,heptyl acetate,C₉H₁₈O₂,192.2,degree Celsius,-50.3,degree Celsius
+COCCOCCO,diethylene glycol monomethyl ether,C₅H₁₂O₃,193.0,degree Celsius,-70.0,degree Celsius
+CCCCCCCCO,1-octanol,C₈H₁₈O,195.16,degree Celsius,-15.5,degree Celsius
+CCCCCCCCCCC,undecane,C₁₁H₂₄,195.9,degree Celsius,-25.54,degree Celsius
+CCCCC(CC)COP(=O)(OC1=CC=CC=C1)OC2=CC=CC=C2,octicizer,C₂₀H₂₇O₄P,196.0,degree Celsius,-60.0,degree Celsius
+CCOCCOCCO,diethylene glycol monoethyl ether,C₆H₁₄O₃,196.0,degree Celsius,-76.0,degree Celsius
+CC1=C2C=CC=CC2=CC3=CC=CC=C13,9-methylanthracene,C₁₅H₁₂,196.5,degree Celsius,80.0,degree Celsius
+CC1=CC(=C(C=C1C)C)C,durene,C₁₀H₁₄,196.84,degree Celsius,79.0,degree Celsius
+C1=CC=C(C(=C1)C=O)O,salicylaldehyde,C₇H₆O₂,197.0,degree Celsius,-7.0,degree Celsius
+C1=CC=C(C=C1)C(=O)Cl,benzoyl chloride,C₇H₅ClO,197.2,degree Celsius,-1.0,degree Celsius
+C(CCl)SCCCl,mustard gas,C₄H₈Cl₂S,198.0,degree Celsius,14.45,degree Celsius
+C1=CC=C(C=C1)CCN,2-phenethylamine,C₈H₁₁N,198.5,degree Celsius,0.0,degree Celsius
+CCOC(=O)CC(=O)OCC,diethyl malonate,C₇H₁₂O₄,198.9,degree Celsius,-50.0,degree Celsius
+CCCCC(CC)COC(=O)C,2-ethylhexyl acetate,C₁₀H₂₀O₂,199.0,degree Celsius,-45.0,degree Celsius
+COC(=O)C1=CC=CC=C1,methyl benzoate,C₈H₈O₂,199.0,degree Celsius,-12.0,degree Celsius
+CNC=O,N-methylformamide,C₂H₅NO,199.51,degree Celsius,-4.0,degree Celsius
+CCCC(=O)OC(=O)CCC,butyric anhydride,C₈H₁₄O₃,200.0,degree Celsius,-65.7,degree Celsius
+O[P+](=O)O,phosphonic acid,H₃PO₃,200.0,degree Celsius,74.4,degree Celsius
+CCCCCCCCBr,1-bromooctane,C₈H₁₇Br,200.0,degree Celsius,-55.0,degree Celsius
+CC(C)CCCC(C)C1CCC2C1(CCC3C2CC=C4C3(CCC(C4)O)C)C,cholesterol,C₂₇H₄₆O,200.0,degree Celsius,148.0,degree Celsius
+COC(=O)CC#N,Methyl cyanoacetate,C₄H₅NO₂,200.5,degree Celsius,-22.5,degree Celsius
+CC1=NC2=CC=CC=C2O1,"2-methyl-4,5-benzo-oxazole",C₈H₇NO,200.5,degree Celsius,3.0,degree Celsius
+CC1=C(C=C(C=C1)Cl)Cl,"2,4-dichlorotoluene",C₇H₆Cl₂,201.0,degree Celsius,-13.0,degree Celsius
+CC1=C(C(=CC=C1)C)O,"2,6-xylenol",C₈H₁₀O,201.07,degree Celsius,45.7,degree Celsius
+CC(=O)NC,methyl acetamide,C₃H₇NO,202.0,degree Celsius,28.0,degree Celsius
+CCCCCCCCCCl,1-chlorononane,C₉H₁₉Cl,202.0,degree Celsius,-39.4,degree Celsius
+CC(=O)C1=CC=CC=C1,acetophenone,C₈H₈O,202.0,degree Celsius,20.0,degree Celsius
+CN1CCCC1=O,N-methyl-2-pyrrolidone,C₅H₉NO,202.0,degree Celsius,-24.0,degree Celsius
+CC(CC1=CC=CC=C1)N,DL-amphetamine,C₉H₁₃N,203.0,degree Celsius,11.3,degree Celsius
+CCNC1=CC=CC=C1,ethylaniline,C₈H₁₁N,203.05,degree Celsius,-63.5,degree Celsius
+C1CC(=O)OC1,butyrolactone,C₄H₆O₂,204.0,degree Celsius,-43.37,degree Celsius
+CCC1=CC=CC=C1O,o-ethylphenol,C₈H₁₀O,204.52,degree Celsius,-18.0,degree Celsius
+C(CC(=O)O)C(C(=O)O)N,DL-glutamic acid,C₅H₉NO₄,205.0,degree Celsius,160.0,degree Celsius
+C1=CC=C(C=C1)CO,benzyl alcohol,C₇H₈O,205.0,degree Celsius,-15.2,degree Celsius
+Br[Sn](Br)(Br)Br,tin(IV) bromide,Br₄Sn,205.0,degree Celsius,31.0,degree Celsius
+C(CCCN)CCN,hexamethylenediamine,C₆H₁₆N₂,205.0,degree Celsius,41.0,degree Celsius
+CC1=CC=CC=C1C#N,o-tolunitrile,C₈H₇N,205.0,degree Celsius,-14.0,degree Celsius
+CCCCCC(=O)O,caproic acid,C₆H₁₂O₂,205.25,degree Celsius,-4.0,degree Celsius
+C1CCC2=CC=CC=C2C1,tetralin,C₁₀H₁₂,207.0,degree Celsius,-35.0,degree Celsius
+C1=CC(=O)OC=C1,2H-pyran-2-one,C₅H₄O₂,207.5,degree Celsius,8.5,degree Celsius
+C(CCCO)CCO,"1,6-hexanediol",C₆H₁₄O₂,208.0,degree Celsius,42.0,degree Celsius
+C1=C(C=C(C=C1Cl)Cl)Cl,"1,3,5-trichlorobenzene",C₆H₃Cl₃,208.0,degree Celsius,63.5,degree Celsius
+C1=CC=NN=C1,pyridazine,C₄H₄N₂,208.0,degree Celsius,-8.0,degree Celsius
+CCCCCCCCCC=O,decanal,C₁₀H₂₀O,208.5,degree Celsius,-5.0,degree Celsius
+CCCCCCCC(=O)OCC,ethyl octanoate,C₁₀H₂₀O₂,208.55,degree Celsius,-43.1,degree Celsius
+C1=CC=C(C(=C1)N)Cl,2-chloroaniline,C₆H₆ClN,208.84,degree Celsius,-14.0,degree Celsius
+C[Si]1(O[Si](O[Si](O[Si](O[Si](O1)(C)C)(C)C)(C)C)(C)C)C,cyclomethicone 5,C₁₀H₃₀O₅Si₅,210.0,degree Celsius,-44.0,degree Celsius
+CC1=CC(=C(C=C1)O)C,"2,4-dimethylphenol",C₈H₁₀O,210.98,degree Celsius,24.53,degree Celsius
+C1=CC=C(C(=C1)C(=O)O)O,salicylic acid,C₇H₆O₃,211.0,degree Celsius,159.0,degree Celsius
+CC1=CC(=C(C=C1)C)O,"2,5-xylenol",C₈H₁₀O,211.18,degree Celsius,74.8,degree Celsius
+CC1CCC(C(C1)O)C(C)C,L-menthol,C₁₀H₂₀O,212.0,degree Celsius,44.0,degree Celsius
+CCOC(=O)C1=CC=CC=C1,ethyl benzoate,C₉H₁₀O₂,212.0,degree Celsius,-34.0,degree Celsius
+CC(=O)OCC1=CC=CC=C1,benzyl acetate,C₉H₁₀O₂,213.0,degree Celsius,-51.3,degree Celsius
+CCCCCCCCCO,1-nonanol,C₉H₂₀O,213.37,degree Celsius,-7.0,degree Celsius
+CCCCCCCCCCC=C,dodecene,C₁₂H₂₄,213.8,degree Celsius,-37.0,degree Celsius
+C1=CC=C(C(=C1)N)O,2-aminophenol,C₆H₇NO,214.0,degree Celsius,174.0,degree Celsius
+C1=CC(=CC(=C1)Cl)O,m-chlorophenol,C₆H₅ClO,214.0,degree Celsius,32.6,degree Celsius
+C(CO)CO,"1,3-propanediol",C₃H₈O₂,214.7,degree Celsius,-27.6,degree Celsius
+C1CCC(=O)OCC1,caprolactone,C₆H₁₀O₂,215.0,degree Celsius,-18.0,degree Celsius
+C1=CC=C(C(=C1)[N+](=O)[O-])O,2-nitrophenol,C₆H₅NO₃,216.0,degree Celsius,44.8,degree Celsius
+CCCCCCCCCCCC,dodecane,C₁₂H₂₆,216.2,degree Celsius,-9.6,degree Celsius
+CCCCN(CCCC)CCCC,tributylamine,C₁₂H₂₇N,216.5,degree Celsius,-70.0,degree Celsius
+CC1=C(C(=CC=C1)O)C,"2,3-xylenol",C₈H₁₀O,216.92,degree Celsius,71.5,degree Celsius
+CC1=CC=C(C=C1)C#N,p-tolunitrile,C₈H₇N,217.05,degree Celsius,29.5,degree Celsius
+CCC1=CC=C(C=C1)O,4-ethylphenol,C₈H₁₀O,217.98,degree Celsius,45.08,degree Celsius
+C1=CC=C(C=C1)CCO,phenylethyl alcohol,C₈H₁₀O,218.0,degree Celsius,-27.0,degree Celsius
+C(I)(I)I,iodoform,CHI₃,218.0,degree Celsius,122.0,degree Celsius
+C1C2CNCC1C3=CC=CC(=O)N3C2,cytisine,C₁₁H₁₄N₂O,218.0,degree Celsius,152.5,degree Celsius
+C(=O)(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)O,perfluorodecanoic acid,C₁₀HF₁₉O₂,218.0,degree Celsius,79.0,degree Celsius
+C1=CC(=CC=C1N)Br,4-bromoaniline,C₆H₆BrN,219.7,degree Celsius,63.0,degree Celsius
+CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,bisphenol A,C₁₅H₁₆O₂,220.0,degree Celsius,158.0,degree Celsius
+C1=CC(=CC=C1O)Cl,p-chlorophenol,C₆H₅ClO,220.0,degree Celsius,41.0,degree Celsius
+Cl[Sb](Cl)Cl,antimony trichloride,Cl₃Sb,220.3,degree Celsius,73.4,degree Celsius
+C1=CC(=CC=C1CCl)Cl,p-chlorobenzylchloride,C₇H₆Cl₂,220.6,degree Celsius,27.0,degree Celsius
+C(CO)C#N,ethylene cyanohydrin,C₃H₅NO,221.0,degree Celsius,-46.0,degree Celsius
+C1=CC=C(C=C1)C(Cl)(Cl)Cl,benzotrichloride,C₇H₅Cl₃,221.0,degree Celsius,-5.0,degree Celsius
+F[Re](F)(F)(F)F,rhenium(V) fluoride,ReF₅,221.3,degree Celsius,48.0,degree Celsius
+CC1=C(N=CC=C1)N,2-amino-3-methylpyridine,C₆H₈N₂,221.5,degree Celsius,31.0,degree Celsius
+CC1=CC(=CC(=C1)O)C,"3,5-xylenol",C₈H₁₀O,221.74,degree Celsius,63.0,degree Celsius
+CC(=O)N,acetamide,C₂H₅NO,222.0,degree Celsius,80.16,degree Celsius
+CCCCCCC(=O)O,heptanoic acid,C₇H₁₄O₂,222.25,degree Celsius,-7.5,degree Celsius
+COC(=O)C1=CC=CC=C1O,methyl salicylate,C₈H₈O₃,222.95,degree Celsius,-9.0,degree Celsius
+C1=CC=C(C=C1)P(Cl)Cl,dichlorophenylphosphine,C₆H₅Cl₂P,225.0,degree Celsius,-51.0,degree Celsius
+CC1=C(C=C(C=C1)O)C,"3,4-Dimethylphenol",C₈H₁₀O,227.0,degree Celsius,67.0,degree Celsius
+CCCCCCCCC(=O)OCC,ethyl nonanoate,C₁₁H₂₂O₂,227.05,degree Celsius,-36.7,degree Celsius
+F[Nb](F)(F)(F)F,niobium(V) fluoride,F₅Nb,229.0,degree Celsius,80.0,degree Celsius
+C1=CC=C(C(=C1)N)Br,2-Bromoaniline,C₆H₆BrN,229.0,degree Celsius,29.0,degree Celsius
+[Ti](Br)(Br)(Br)Br,titanium tetrabromide,Br₄Ti,230.0,degree Celsius,39.0,degree Celsius
+C1=CC=C(C=C1)N=NC2=CC=C(C=C2)O,4-hydroxyazobenzene,C₁₂H₁₀N₂O,230.0,degree Celsius,155.0,degree Celsius
+C1=CC(=CC(=C1)Cl)N,m-chloroaniline,C₆H₆ClN,230.5,degree Celsius,-10.4,degree Celsius
+CCCCCCCCCCO,1-decanol,C₁₀H₂₂O,231.1,degree Celsius,6.9,degree Celsius
+C1=CC(=CC=C1N)Cl,4-chloroaniline,C₆H₆ClN,232.0,degree Celsius,70.0,degree Celsius
+CC1=CC(=C(C=C1)C(C)C)O,thymol,C₁₀H₁₄O,232.55,degree Celsius,51.0,degree Celsius
+C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],cyclonite,C₃H₆N₆O₆,234.0,degree Celsius,205.0,degree Celcius
+CCC1=CC(=C(C=C1)O)OC,4-ethylguaiacol,C₉H₁₂O₂,235.0,degree Celsius,15.0,degree Celsius
+C(CCO)CO,"1,4-butanediol",C₄H₁₀O₂,235.0,degree Celsius,20.1,degree Celsius
+CCCCCCCCCCCCC,tridecane,C₁₃H₂₈,235.4,degree Celsius,-5.0,degree Celsius
+C1=CC(=CC(=C1)Cl)[N+](=O)[O-],m-chloronitrobenzene,C₆H₄ClNO₂,235.5,degree Celsius,45.0,degree Celsius
+CC(C)(C)C1=CC=C(C=C1)O,4-tert-butylphenol,C₁₀H₁₄O,237.0,degree Celsius,99.0,degree Celsius
+C1=CC=C(C=C1)OCCO,phenoxyethanol,C₈H₁₀O₂,237.0,degree Celsius,12.0,degree Celsius
+C1=CC=C2C(=C1)C=CC=N2,quinoline,C₉H₇N,237.1,degree Celsius,-15.0,degree Celsius
+CS(=O)(=O)C,dimethyl sulfone,C₂H₆O₂S,238.0,degree Celsius,110.0,degree Celsius
+C(CCO)CCO,"1,5-pentanediol",C₅H₁₀O₂,239.0,degree Celsius,-16.0,degree Celsius
+CCCCCCCC(=O)O,caprylic acid,C₈H₁₆O₂,239.0,degree Celsius,16.3,degree Celsius
+CC1=NC2=CC=CC=C2S1,2-methylbenzothiazole,C₈H₇NS,239.0,degree Celsius,12.0,degree Celsius
+C1CCC(CC1)C2=CC=CC=C2,cyclohexylbenzene,C₁₂H₁₆,240.1,degree Celsius,6.0,degree Celsius
+CC1=CC2=CC=CC=C2C=C1,2-methylnaphthalene,C₁₁H₁₀,241.11,degree Celsius,33.0,degree Celsius
+CC1=C(C=C(C=C1)C(C)C)O,carvacrol,C₁₀H₁₄O,241.5,degree Celsius,2.5,degree Celsius
+C1=CC=C(C=C1)CN=C=S,benzyl isothiocyanate,C₈H₇NS,243.0,degree Celsius,41.0,degree Celsius
+C1=CC=C2C=NC=CC2=C1,isoquinoline,C₉H₇N,243.22,degree Celsius,25.5,degree Celsius
+C1=CC=C(C=C1)NN,phenylhydrazine,C₆H₈N₂,243.55,degree Celsius,19.4,degree Celcius
+C(C(Br)Br)(Br)Br,"1,1,2,2-tetrabromoethane",C₂H₂Br₄,243.55,degree Celsius,0.0,degree Celsius
+C1CC(=O)C2=CC=CC=C21,1-indanone,C₉H₈O,244.0,degree Celsius,40.0,degree Celsius
+CC1=CC=CC2=CC=CC=C12,1-methylnaphthalene,C₁₁H₁₀,244.74,degree Celsius,-22.0,degree Celsius
+C1CC(=O)NC1,2-pyrrolidone,C₄H₇NO,245.0,degree Celsius,25.0,degree Celsius
+C1=CC=C(C(=C1)[N+](=O)[O-])Cl,o-chloronitrobenzene,C₆H₄ClNO₂,245.5,degree Celsius,33.0,degree Celsius
+C(COCCO)O,diethylene glycol,C₄H₁₀O₃,245.8,degree Celsius,-10.45,degree Celsius
+C1=C(C=C(C(=C1Cl)O)Cl)Cl,"2,4,6-trichlorophenol",C₆H₃Cl₃O,246.0,degree Celsius,66.0,degree Celsius
+CC(C)C1=C(C(=CC=C1)C(C)C)O,propofol,C₁₂H₁₈O,247.0,degree Celsius,18.0,degree Celsius
+CC1=NC2=CC=CC=C2C=C1,quinaldine,C₁₀H₉N,247.6,degree Celsius,-2.0,degree Celsius
+COC1=CC=C(C=C1)C=O,p-anisaldehyde,C₈H₈O₂,248.0,degree Celsius,1.0,degree Celsius
+C1=CC=C(C=C1)C(=O)O,benzoic acid,C₇H₆O₂,250.2,degree Celsius,123.0,degree Celsius
+C1=CC(=CC(=C1)Br)N,3-Bromoaniline,C₆H₆BrN,251.0,degree Celsius,16.0,degree Celsius
+CC(C(C1=CC=CC=C1)O)N(C)C,"(1R,2S)-2-(dimethylamino)-1-phenyl-1-propanol",C₁₁H₁₇NO,251.2,degree Celsius,87.0,degree Celsius
+C1=C(C(=CC(=C1Cl)Cl)Cl)O,"2,4,5-trichlorophenol",C₆H₃Cl₃O,253.0,degree Celsius,67.0,degree Celsius
+C1=CC=C(C=C1)C=CC=O,(E)-cinnamaldehyde,C₉H₈O,253.0,degree Celsius,-8.0,degree Celsius
+CCCCCCCCCCCCCC,tetradecane,C₁₄H₃₀,253.52,degree Celsius,5.86,degree Celsius
+C1=CC=C2C(=C1)C=CN2,1H-indole,C₈H₇N,254.0,degree Celsius,52.0,degree Celsius
+[Al](Br)(Br)Br,aluminum bromide,AlBr₃,255.0,degree Celsius,97.5,degree Celsius
+C1=CN=CN1,imidazole,C₃H₄N₂,256.0,degree Celsius,90.0,degree Celsius
+COC(=O)C1=CC=CC=C1N,methyl anthranilate,C₈H₉NO₂,256.0,degree Celsius,24.0,degree Celsius
+C1=CC=C(C(=C1)N)N,o-phenylenediamine,C₆H₈N₂,257.0,degree Celsius,102.0,degree Celsius
+CC(=O)OCC(COC(=O)C)OC(=O)C,triacetin,C₉H₁₄O₆,259.0,degree Celsius,-78.0,degree Celsius
+CCCCCCCCCCCCO,lauryl alcohol,C₁₂H₂₆O,259.0,degree Celsius,24.0,degree Celsius
+C1=CC=C2C(=C1)C=CC=C2Cl,1-chloronaphthalene,C₁₀H₇Cl,259.3,degree Celsius,-8.0,degree Celsius
+CCCCCCCCCCCCCl,lauryl chloride,C₁₂H₂₅Cl,260.0,degree Celsius,-9.0,degree Celsius
+C1CC(=O)OC1=O,succinic anhydride,C₄H₄O₃,261.0,degree Celsius,120.0,degree Celsius
+CN(C)C1=CC=C(C=C1)N,dimethyl-4-phenylenediamine,C₈H₁₂N₂,262.0,degree Celsius,53.0,degree Celsius
+CC1=CN=CN1,4-methylimidazole,C₄H₆N₂,263.0,degree Celsius,51.0,degree Celsius
+CC(=CC1=CC=CC=C1)[N+](=O)[O-],phenyl-2-nitropropene,C₉H₉NO₂,263.0,degree Celsius,65.0,degree Celsius
+C1=CC(=C(C=C1O)Cl)O,chlorohydroquinone,C₆H₅ClO₂,263.0,degree Celsius,102.0,degree Celsius
+CC1=CNC2=CC=CC=C12,skatole,C₉H₉N,265.0,degree Celsius,96.0,degree Celsius
+C(CCC(=O)O)CC(=O)O,adipic acid,C₆H₁₀O₄,265.0,degree Celsius,153.2,degree Celsius
+C1=CC=C(C=C1)CC2=CC=CC=C2,diphenylmethane,C₁₃H₁₂,265.05,degree Celsius,25.24,degree Celsius
+CCCCCCCCCC(=O)O,capric acid,C₁₀H₂₀O₂,268.75,degree Celsius,31.0,degree Celsius
+C(CO)NCCO,diethanolamine,C₄H₁₁NO₂,268.8,degree Celsius,28.0,degree Celsius
+C1=CC=C2C(=C1)C=NN2,1H-indazole,C₇H₆N₂,269.0,degree Celsius,148.0,degree Celsius
+CC(=O)OCC1=CC=C(C=C1)OC,anisyl acetate,C₁₀H₁₂O₃,270.0,degree Celsius,84.0,degree Celsius
+CCCCCCCCCCCCCCC,pentadecane,C₁₅H₃₂,270.6,degree Celsius,9.9,degree Celsius
+C1=CC=C(C=C1)NC=O,formanilide,C₇H₇NO,271.0,degree Celsius,46.0,degree Celsius
+CC(C1=CC=CC=C1)C2=CC=CC=C2,"1,1-diphenylethane",C₁₄H₁₄,272.6,degree Celsius,-17.9,degree Celsius
+C1CC2=CC=CC3=C2C1=CC=C3,acenaphthene,C₁₂H₁₀,279.0,degree Celsius,93.4,degree Celsius
+CCCCOC(=O)C=CC(=O)OCCCC,dibutyl maleate,C₁₂H₂₀O₄,280.0,degree Celsius,-85.0,degree Celsius
+COC1=CC=C(C=C1)C(=O)O,p-anisic acid,C₈H₈O₃,280.0,degree Celsius,184.0,degree Celsius
+Br[Sb](Br)Br,antimony tribromide,Br₃Sb,280.0,degree Celsius,96.6,degree Celsius
+C1=CC=C2C(=C1)C=CC=C2Br,1-bromonaphthalene,C₁₀H₇Br,281.0,degree Celsius,-1.0,degree Celsius
+C1=CC=C(C(=C1)N)[N+](=O)[O-],o-nitroaniline,C₆H₆N₂O₂,284.0,degree Celsius,72.0,degree Celsius
+C1=CC=C(C=C1)CCC2=CC=CC=C2,bibenzyl,C₁₄H₁₄,284.0,degree Celsius,52.5,degree Celsius
+CCCCCCCCCCC(=O)O,undecanoic acid,C₁₁H₂₂O₂,284.0,degree Celsius,29.0,degree Celsius
+CCCCCCCCCCCCCCC=C,1-hexadecene,C₁₆H₃₂,284.9,degree Celsius,4.0,degree Celsius
+COC1=C(C=CC(=C1)C=O)O,vanillin,C₈H₈O₃,285.0,degree Celsius,80.0,degree Celsius
+C1CCS(=O)(=O)C1,sulfolane,C₄H₈O₂S,285.0,degree Celsius,27.0,degree Celsius
+C1=CC=C2C=C(C=CC2=C1)O,2-naphthol,C₁₀H₈O,285.0,degree Celsius,123.0,degree Celsius
+C1=CC(=CC(=C1)N)N,m-phenylenediamine,C₆H₈N₂,285.0,degree Celsius,63.5,degree Celsius
+C1CCCCCCCCCCCCCC1,cyclopentadecane,C₁₅H₃₀,286.0,degree Celsius,61.3,degree Celsius
+CC1CCC2C13CCC(C(C3)C2(C)C)(C)O,cedrol,C₁₅H₂₆O,286.0,degree Celsius,86.0,degree Celsius
+CCCCCCCCCCCCCCCC,hexadecane,C₁₆H₃₄,286.79,degree Celsius,18.15,degree Celsius
+C1=CC=C2C(=C1)C3=CC=CC=C3O2,dibenzofuran,C₁₂H₈O,287.0,degree Celsius,81.0,degree Celsius
+C1=CC=C2C(=C1)C=CC=C2O,1-naphthol,C₁₀H₈O,288.0,degree Celsius,96.1,degree Celsius
+COC(=O)C1=CC=C(C=C1)C(=O)OC,dimethyl terephthalate,C₁₀H₁₀O₄,288.0,degree Celsius,141.0,degree Celsius
+CC1=CC(=CC(=C1)O)O,orcinol,C₇H₈O₂,288.5,degree Celsius,107.5,degree Celsius
+CCCCCCCCCCCCCCO,myristyl alcohol,C₁₄H₃₀O,289.0,degree Celsius,39.5,degree Celsius
+C(C(CO)O)O,glycerol,C₃H₈O₃,290.0,degree Celsius,17.8,degree Celcius
+C1=CC=C(C=C1)C(=O)N,benzamide,C₇H₇NO,290.0,degree Celsius,127.0,degree Celsius
+CC1(C(C1C(=O)OCC2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Cl)Cl)C,permethrin,C₂₁H₂₀Cl₂O₃,290.0,degree Celsius,34.5,degree Celsius
+CC1=C(C=C(C=C1)N)N,"toluene-2,4-diamine",C₇H₁₀N₂,292.0,degree Celsius,99.0,degree Celsius
+C1=CC=C(C=C1)N=NC2=CC=CC=C2,azobenzene,C₁₂H₁₀N₂,293.0,degree Celsius,67.1,degree Celsius
+C1C2=CC=CC=C2C3=CC=CC=C31,fluorene,C₁₃H₁₀,295.0,degree Celsius,115.0,degree Celsius
+CCOP(=O)(C)SCCN(C(C)C)C(C)C,O-ethyl S-2-diisopropylaminoethyl methylphosphonothioate,C₁₁H₂₆NO₂PS,298.0,degree Celsius,-50.0,degree Celsius
+C1=CC=C(C=C1)C#CC2=CC=CC=C2,tolan,C₁₄H₁₀,300.0,degree Celsius,60.0,degree Celsius
+CC1(C(C1C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C,deltamethrin,C₂₂H₁₉Br₂NO₃,300.0,degree Celsius,98.0,degree Celsius
+C1=C(C=C(C(=C1Br)N)Br)Br,"2,4,6-Tribromoaniline",C₆H₄Br₃N,300.0,degree Celsius,120.0,degree Celsius
+C1=CC=C(C=C1)C=CC(=O)O,(E)-cinnamic acid,C₉H₈O₂,300.0,degree Celsius,134.0,degree Celsius
+C1=CC=C2C(=C1)C=CC(=O)O2,coumarin,C₉H₆O₂,301.0,degree Celsius,70.0,degree Celsius
+CCCCCCCCCCCCCCCCC,heptadecane,C₁₇H₃₆,301.8,degree Celsius,22.0,degree Celsius
+C(CC(=O)O)CC(=O)O,glutaric acid,C₅H₈O₄,303.0,degree Celsius,97.8,degree Celsius
+Cl[Hg]Cl,mercuric chloride,Cl₂Hg,304.0,degree Celsius,276.0,degree Celsius
+C1=CC=C(C=C1)C(=O)C2=CC=CC=C2,benzophenone,C₁₃H₁₀O,305.0,degree Celsius,47.88,degree Celsius
+C1=CC=C(C=C1)C=CC2=CC=CC=C2,(E)-stilbene,C₁₄H₁₂,307.0,degree Celsius,123.0,degree Celsius
+Cl[Fe](Cl)Cl,ferric chloride,FeCl₃,315.0,degree Celsius,306.0,degree Celsius
+C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl,"2,4-dinitrochlorobenzene",C₆H₃ClN₂O₄,315.0,degree Celsius,50.0,degree Celsius
+CCCCCCCCCCCCCCCCCC,octadecane,C₁₈H₃₈,316.35,degree Celsius,28.0,degree Celsius
+C1=CC=C(C(=C1)C(=O)NCCC2=C(C=C(C=N2)C(F)(F)F)Cl)C(F)(F)F,fluopyram,C₁₆H₁₁ClF₆N₂O,318.0,degree Celsius,117.5,degree Celsius
+C1CN2CCC1C(C2)OC(=O)C(C3=CC=CC=C3)(C4=CC=CC=C4)O,3-quinuclidinyl-benzilate,C₂₁H₂₃NO₃,320.0,degree Celsius,167.5,degree Celsius
+C1=CC=C(C=C1)COC(=O)C2=CC=CC=C2,benzyl benzoate,C₁₄H₁₂O₂,321.3,degree Celsius,19.0,degree Celsius
+Br[Hg]Br,mercury(II) bromide,Br₂Hg,322.0,degree Celsius,236.0,degree Celsius
+CCCCCCCCCCCCCCCCO,cetyl alcohol,C₁₆H₃₄O,325.0,degree Celsius,49.3,degree Celsius
+C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,hexachlorobenzene,C₆Cl₆,325.0,degree Celsius,231.8,degree Celsius
+CCCCCCCCCCCCCC(=O)O,myristic acid,C₁₄H₂₈O₂,326.2,degree Celsius,55.0,degree Celsius
+O=[W].Br.Br.Br.Br,tungsten(VI) oxytetrabromide,Br₄OW,327.0,degree Celsius,277.0,degree Celsius
+CCCCCCCCCCCCCCCCCCC,nonadecane,C₁₉H₄₀,329.9,degree Celsius,33.0,degree Celsius
+CN(C)CCC1=CNC2=CC=CC=C21,dimethyltryptamine,C₁₂H₁₆N₂,332.12,degree Celsius,47.0,degree Celsius
+C1=CC=C2C(=C1)C3=CC=CC=C3S2,dibenzothiophene,C₁₂H₈S,332.5,degree Celsius,99.0,degree Celsius
+CCCCCCCCCCCCCCCCCO,1-heptadecanol,C₁₇H₃₆O,333.0,degree Celsius,53.8,degree Celsius
+C(CO)N(CCO)CCO,trolamine,C₆H₁₅NO₃,335.4,degree Celsius,20.5,degree Celsius
+OS(=O)(=O)O,sulfuric acid,H₂SO₄,337.0,degree Celsius,10.31,degree Celsius
+C1=CC=C2C(=C1)C=CC3=CC=CC=C32,phenanthrene,C₁₄H₁₀,338.4,degree Celsius,99.24,degree Celsius
+C1=CC=C2C=C3C=CC=CC3=CC2=C1,anthracene,C₁₄H₁₀,339.95,degree Celsius,215.0,degree Celsius
+CCCCCCCCCCCCCCCCCC(=O)OCCCC,butyl stearate,C₂₂H₄₄O₂,343.0,degree Celsius,26.3,degree Celsius
+CCCCCCCCCCCCCCCCCCCC,icosane,C₂₀H₄₂,344.1,degree Celsius,36.48,degree Celsius
+C1=CC=C2C(=C1)C=C3C=CC=CC3=N2,acridine,C₁₃H₉N,346.0,degree Celsius,109.0,degree Celsius
+C1=CC=C(C=C1)C(=O)C(=O)C2=CC=CC=C2,benzil,C₁₄H₁₀O₂,347.0,degree Celsius,95.0,degree Celsius
+CCCCCCCCCCCCCCCC(=O)O,palmitic acid,C₁₆H₃₂O₂,351.5,degree Celsius,61.0,degree Celsius
+I[Hg]I,mercury(II) iodide,HgI₂,354.0,degree Celsius,259.0,degree Celsius
+C1=CC=C2C(=C1)C3=CC=CC=C3N2,carbazole,C₁₂H₉N,354.7,degree Celsius,243.0,degree Celsius
+C1=CC=C(C=C1)C(C2=CC=CC=C2)C3=CC=CC=C3,triphenylmethane,C₁₉H₁₆,359.0,degree Celsius,92.0,degree Celsius
+C1=CC=C(C=C1)N=NC2=CC=C(C=C2)N,p-aminoazobenzene,C₁₂H₁₁N₃,360.0,degree Celsius,126.5,degree Celsius
+C1=CC=C(C=C1)C(=O)OC(=O)C2=CC=CC=C2,benzoic anhydride,C₁₄H₁₀O₃,360.0,degree Celsius,42.0,degree Celsius
+CCCCCCCCC=CCCCCCCCC(=O)O,oleic acid,C₁₈H₃₄O₂,360.0,degree Celsius,13.4,degree Celsius
+CCCCCCCCCCCCCCCCCC(=O)O,stearic acid,C₁₈H₃₆O₂,361.0,degree Celsius,68.82,degree Celsius
+CCCCCCCCCCCCCCCCC(=O)O,margaric acid,C₁₇H₃₄O₂,363.8,degree Celsius,61.0,degree Celsius
+[Sn](I)(I)(I)I,tin(IV) iodide,I₄Sn,364.35,degree Celsius,143.0,degree Celsius
+C(=O)(C(=O)O)O,oxalic acid,C₂H₂O₄,365.0,degree Celsius,189.5,degree Celsius
+CCCCCC=CCC=CCCCCCCCC(=O)O,linoleic acid,C₁₈H₃₂O₂,365.2,degree Celsius,-5.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCC,docosane,C₂₂H₄₆,370.0,degree Celsius,45.0,degree Celsius
+F[Sb](F)F,antimony trifluoride,F₃Sb,376.0,degree Celsius,292.0,degree Celsius
+C1=CC=C2C(=C1)C(=O)C3=CC=CC=C3C2=O,anthraquinone,C₁₄H₈O₂,379.8,degree Celsius,286.0,degree Celsius
+CCCC(=O)C1=C(C(=C(C=C1O)OC)C)O,aspidinol,C₁₂H₁₆O₄,380.0,degree Celsius,151.0,degree Celsius
+[Al](I)(I)I,aluminum iodide,AlI₃,382.0,degree Celsius,191.0,degree Celsius
+C1=CC=C2C(=C1)C3=CC=CC4=C3C2=CC=C4,fluoranthene,C₁₆H₁₀,384.0,degree Celsius,107.8,degree Celsius
+Cl[Te](Cl)(Cl)Cl,tellurium tetrachloride,Cl₄Te,387.0,degree Celsius,224.0,degree Celsius
+CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C,progesterone,C₂₁H₃₀O₂,394.13,degree Celsius,121.0,degree Celsius
+C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])C(=O)O,"3,5-dinitrobenzoic acid",C₇H₄N₂O₆,395.0,degree Celsius,206.0,degree Celsius
+[N+](=O)([O-])[O-].[K+],potassium nitrate,KNO₃,400.0,degree Celsius,334.0,degree Celsius
+[NH2-].[Na+],sodium amide,H₂NNa,400.0,degree Celsius,210.0,degree Celsius
+[Sb](I)(I)I,antimony triiodide,I₃Sb,401.0,degree Celsius,168.0,degree Celsius
+C1=CC2=C3C(=C1)C=CC4=CC=CC(=C43)C=C2,pyrene,C₁₆H₁₀,404.0,degree Celsius,150.0,degree Celsius
+C1=CC=C2C(=C1)NC3=CC=CC=C3[As]2Cl,phenarsazine chloride,C₁₂H₉AsClN,410.0,degree Celsius,195.0,degree Celsius
+C1=CC2=C(C=C1O)C(=CN2)CCN,serotonin,C₁₀H₁₂N₂O,416.0,degree Celsius,167.5,degree Celsius
+C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3)O)O,alizarin,C₁₄H₈O₄,430.0,degree Celsius,289.0,degree Celsius
+CNC1=C2C(=C(C=C1)NCCO)C(=O)C3=CC=CC=C3C2=O,disperse blue 3,C₁₇H₁₆N₂O₃,437.0,degree Celsius,187.0,degree Celsius
+S1SSSSSSS1,octasulfur,S₈,444.6,degree Celsius,118.9,degree Celcius
+Cl[Bi](Cl)Cl,bismuth chloride,BiCl₃,447.0,degree Celsius,230.0,degree Celsius
+C1=CC=C2C(=C1)C=CC3=C2C=CC4=CC=CC=C43,chrysene,C₁₈H₁₂,448.0,degree Celsius,258.2,degree Celsius
+O=[Re](=O)(=O)O[Re](=O)(=O)=O,rhenium(VII) oxide,O₇Re₂,450.0,degree Celsius,297.0,degree Celsius
+Br[Bi](Br)Br,bismuth(III) bromide,BiBr₃,453.0,degree Celsius,218.0,degree Celsius
+O([Tl])[Tl],thallium(I) oxide,OTl₂,500.0,degree Celsius,300.0,degree Celsius
+[O-][Cr](=O)(=O)O[Cr](=O)(=O)[O-].[K+].[K+],potassium dichromate,K₂Cr₂O₇,500.0,degree Celsius,398.0,degree Celsius
+[NH4+].[Cl-],ammonium chloride,ClH₄N,520.0,degree Celsius,337.6,degree Celsius
+[Be+2].[Cl-].[Cl-],beryllium chloride,BeCl₂,547.0,degree Celsius,415.0,degree Celsius
+CC(C)(CO)C(C(=O)NCCC(=O)O)O,pantothenic acid,C₉H₁₇NO₅,551.5,degree Celsius,183.83,degree Celsius
+C1=CC2=C3C=CC=CC3=C4C=CC=CC4=C5C=CC=CC5=C2C=C1,tetraphenylene,C₂₄H₁₆,577.6,degree Celsius,233.5,degree Celsius
+Cl[Sn]Cl,stannous chloride,Cl₂Sn,623.0,degree Celsius,247.0,degree Celsius
+[Zn](I)I,zinc iodide,I₂Zn,625.0,degree Celsius,446.0,degree Celsius
+Br[Sn]Br,tin(II) bromide,Br₂Sn,639.0,degree Celsius,215.0,degree Celsius
+[N+](=O)([O-])[O-].[N+](=O)([O-])[O-].[Sr+2],strontium nitrate,N₂O₆Sr,645.0,degree Celsius,570.0,degree Celsius
+F[Tl],thallium(I) fluoride,FTl,655.0,degree Celsius,322.0,degree Celsius
+[Zn+2].[Br-].[Br-],zinc bromide,Br₂Zn,697.0,degree Celsius,394.0,degree Celsius
+F[Ag]F,silver(II) fluoride,AgF₂,700.0,degree Celsius,690.0,degree Celsius
+[K],potassium,K,773.85,degree Celsius,63.6,degree Celcius
+[OH-].[OH-].[Ba+2],barium hydroxide,Ba(OH)₂,780.0,degree Celsius,78.0,degree Celsius
+Cl[Tl],thallium(I) chloride,ClTl,807.0,degree Celsius,430.0,degree Celsius
+[Br-].[Br-].[Cd+2],cadmium bromide,Br₂Cd,844.0,degree Celsius,568.0,degree Celsius
+I[Pb]I,lead(II) iodide,PbI₂,872.0,degree Celsius,410.0,degree Celsius
+Br[Pb]Br,lead(II) bromide,Br₂Pb,892.0,degree Celsius,371.0,degree Celsius
+[Zn],zinc,Zn,907.0,degree Celsius,419.0,degree Celsius
+Cl[Th](Cl)(Cl)Cl,thorium(IV) chloride,Cl₄Th,921.0,degree Celsius,770.0,degree Celsius
+Cl[Pb]Cl,lead chloride,Cl₂Pb,951.0,degree Celsius,501.0,degree Celsius
+Cl[Cd]Cl,cadmium chloride,CdCl₂,960.0,degree Celsius,564.0,degree Celsius
+[O-][Cr](=O)(=O)[O-].[K+].[K+],potassium chromate,K₂CrO₄,1000.0,degree Celsius,968.0,degree Celsius
+[Cl-].[Cl-].[Co+2],cobaltous chloride,Cl₂Co,1049.0,degree Celsius,735.0,degree Celsius
+[Mg],magnesium,Mg,1100.0,degree Celsius,649.0,degree Celsius
+O=[Mo](=O)=O,molybdenum trioxide,MoO₃,1155.0,degree Celsius,801.0,degree Celsius
+[Be+2].[F-].[F-],beryllium fluoride,BeF₂,1159.0,degree Celsius,552.0,degree Celsius
+[Li+].[I-],lithium iodide,LiI,1171.0,degree Celsius,469.0,degree Celsius
+[F-].[Cs+],cesium fluoride,CsF,1251.0,degree Celsius,703.0,degree Celsius
+O=[Te]=O,tellurium dioxide,O₂Te,1257.0,degree Celsius,733.0,degree Celsius
+[I-].[Cs+],cesium iodide,CsI,1280.0,degree Celsius,630.0,degree Celsius
+F[Pb]F,lead(II) fluoride,F₂Pb,1293.0,degree Celsius,830.0,degree Celsius
+[Br-].[Cs+],cesium bromide,BrCs,1297.0,degree Celsius,637.0,degree Celsius
+[Cl-].[Cs+],cesium chloride,CsCl,1297.0,degree Celsius,646.0,degree Celsius
+[Na+].[I-],sodium iodide,INa,1304.0,degree Celsius,660.0,degree Celsius
+[K+].[I-],potassium iodide,KI,1323.0,degree Celsius,681.0,degree Celsius
+S([Tl])[Tl],thallium(I) sulfide,Tl₂S,1367.0,degree Celsius,448.0,degree Celsius
+[Li+].[Cl-],lithium chloride,ClLi,1383.0,degree Celsius,610.0,degree Celsius
+[Cl-].[Rb+],rubidium chloride,ClRb,1390.0,degree Celsius,715.0,degree Celsius
+[Cl-].[K+],potassium chloride,KCl,1407.0,degree Celsius,776.0,degree Celsius
+[Na+].[Cl-],sodium chloride,NaCl,1413.0,degree Celsius,800.7,degree Celsius
+B(=O)[O-].[Na+],sodium metaborate,BNaO₂,1434.0,degree Celsius,966.0,degree Celsius
+[K+].[Br-],potassium bromide,KBr,1435.0,degree Celsius,730.0,degree Celsius
+[Ca],calcium,Ca,1483.85,degree Celsius,838.85,degree Celsius
+F[Zn]F,zinc fluoride,F₂Zn,1500.0,degree Celsius,872.0,degree Celsius
+Br[Ag],silver bromide,AgBr,1502.0,degree Celsius,432.0,degree Celsius
+[F-].[K+],potassium fluoride,KF,1502.0,degree Celsius,858.0,degree Celsius
+[Ag]I,silver iodide,AgI,1506.0,degree Celsius,558.0,degree Celsius
+[Br-].[Br-].[Br-].[Pu],plutonium(III) bromide,PuBr₃,1531.0,degree Celsius,681.0,degree Celsius
+Cl[Ag],silver chloride,AgCl,1547.0,degree Celsius,455.0,degree Celsius
+B1(OB2OB(OB(O1)O2)[O-])[O-].O.O.O.O.O.O.O.O.O.O.[Na+].[Na+],borax,Na₂B₄O₇·10H₂O,1575.0,degree Celsius,741.1,degree Celcius
+[Li+].[OH-],lithium hydroxide,LiOH,1626.0,degree Celsius,471.2,degree Celsius
+[Li+].[F-],lithium fluoride,LiF,1673.0,degree Celsius,848.2,degree Celsius
+[O-]S(=O)(=O)[O-].[K+].[K+],potassium sulfate,K₂SO₄,1689.0,degree Celsius,1069.0,degree Celsius
+F[Cd]F,cadmium fluoride,CdF₂,1748.0,degree Celsius,1110.0,degree Celsius
+[Sr+2].[I-].[I-],strontium iodide,I₂Sr,1773.0,degree Celsius,538.0,degree Celsius
+O=[V](=O)O[V](=O)=O,vanadium(V) oxide,O₅V₂,1800.0,degree Celsius,670.0,degree Celsius
+[Ba],barium,Ba,1897.0,degree Celsius,727.0,degree Celsius
+[Cl-].[Cl-].[Ca+2],calcium chloride,CaCl₂,1935.0,degree Celsius,772.0,degree Celsius
+[O-2].[Na+].[Na+],sodium oxide,Na₂O,1950.0,degree Celsius,1132.0,degree Celsius
+O=[Fe]O[Fe]=O,iron(III) oxide,Fe₂O₃,1987.0,degree Celsius,1565.0,degree Celcius
+O=[Ba],barium oxide,BaO,2000.0,degree Celsius,1920.0,degree Celsius
+O=[Cu],copper(II) oxide,CuO,2000.0,degree Celsius,1446.0,degree Celsius
+[F-].[F-].[Sr+2],strontium fluoride,F₂Sr,2489.0,degree Celsius,1473.0,degree Celsius
+N#[Al],aluminum nitride,AlN,2517.0,degree Celsius,2200.0,degree Celsius
+[F-].[F-].[Ca+2],calcium fluoride,CaF₂,2533.0,degree Celsius,1418.0,degree Celsius
+[Li+].[Li+].[O-2],lithium oxide,Li₂O,2600.0,degree Celsius,1570.0,degree Celsius
+[Sc],scandium,Sc,2836.85,degree Celsius,1540.85,degree Celsius
+[Fe],iron,Fe,2861.0,degree Celsius,1537.8,degree Celcius
+O=[Mn],manganese(II) oxide,MnO,3127.0,degree Celsius,1569.0,degree Celsius
+[O-2].[Sr+2],strontium oxide,OSr,3200.0,degree Celsius,2430.0,degree Celsius
+[Ti],titanium,Ti,3286.85,degree Celsius,1667.8,degree Celcius
+[O-2].[O-2].[O-2].[In+3].[In+3],indium oxide,In₂O₃,3300.0,degree Celsius,1910.0,degree Celsius
+[V],vanadium,V,3377.0,degree Celsius,1887.0,degree Celsius
+O=[Fe],iron(II) oxide,FeO,3414.0,degree Celsius,1377.0,degree Celsius
+[B],boron,B,3650.0,degree Celsius,2180.0,degree Celsius
+CF,fluoromethane,CH₃F,-78.4,degree Celcius,-141.8,degree Celcius
+C(F)F,difluoromethane,CH₂F₂,-51.7,degree Celcius,-135.1,degree Celcius
+CC(F)(F)F,"1,1,1-trifluoroethane",C₂H₃F₃,-47.5,degree Celcius,-111.3,degree Celcius
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,hexatriacontane,C₃₆H₇₄,265.0,degree Celcius,76.0,degree Celsius
+C(CCCCCl)CCCC(Cl)(Cl)Cl,"1,1,1,9-tetrachlorononane",C₉H₁₆Cl₄,278.9,degree Celcius,27.9,degree Celcius
+CCCCCCCCCCCCCCCCCCCCC,heneicosane,C₂₁H₄₄,356.1,degree Celcius,41.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCCC,tricosane,C₂₃H₄₈,380.0,degree Celcius,49.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCCCC,tetracosane,C₂₄H₅₀,391.3,degree Celcius,51.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCCCCC,pentacosane,C₂₅H₅₂,401.9,degree Celcius,53.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCCCCCC,hexacosane,C₂₆H₅₄,412.2,degree Celcius,57.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCCCCCCC,heptacosane,C₂₇H₅₆,442.0,degree Celcius,59.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,tetratetracontane,C₄₄H₉₀,548.0,degree Celcius,88.0,degree Celsius
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,decacontane,C₁₀₀H₂₀₂,721.0,degree Celcius,115.2,degree Celsius
+[Ho],holmium,Ho,2599.8,degree Celcius,1460.8,degree Celcius
+[Pr],praseodymium,Pr,3129.8,degree Celcius,934.9,degree Celcius
